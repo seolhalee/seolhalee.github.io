@@ -19,7 +19,7 @@ While pursuing academic enthusiasm, I worked in practice as strategic designer/G
 #### Master in City and Regional Planning
 Georgia Institute of Technology 
 #### BSc in Civil and Environmental Engineering
-<span style="color:blue">Seoul National University</span>
+Seoul National University
 Minor in Geography
 
 
@@ -38,15 +38,15 @@ Maturepolis Lab (Lead: Dr. David Lee), Department of Civil and Evnironmental Eng
 
 ### Publication 
 #### Characteristics of Individuals with Global, Local or Glocal Connectivity Patterns
-Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. (Abstract Submitted)
+<span style="color:#a0a3a0">Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. (Abstract Submitted)  
 67th Annual North American Meetings of the Regional Science Association International, November, 2020 
 
 #### Inferring the character of urban commercial areas from age-biased online search results: how place recommendation data can reveal dynamic seoul neighborhoods
-Lee, D., Lee, S. 
+<span style="color:#a0a3a0">Lee, D., **Lee, S.**</span>  
 UbiComp/ISWC '19
 
 #### Planning for Romantic Relationships: A Case Study of a U.S. College Town. Journal of Planning Education and Research.
-Andris, C and Lee, S. (In Review) 
+<span style="color:#a0a3a0">Andris, C and **Lee, S.**</span> (In Review)      
 Journal of Urbnism
 
 ---
