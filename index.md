@@ -18,20 +18,36 @@ While pursuing academic enthusiasm, I worked in practice as strategic designer/G
 
 #### Master in City and Regional Planning
 Georgia Institute of Technology 
-#### BSc in Civil and Environmental Engineering, with minor in Geography
-Seoul National University 
+#### BSc in Civil and Environmental Engineering
+<span style="color:blue">Seoul National University</span>
+Minor in Geography
 
 
 ---
 
 ### Research Experience
- 
+
+#### Graduate Research Assistant, Georgia Tech 
+Friendly Cities Lab (Lead: Dr. Clio Andris), School of City and Regional Planning 
+- Computational research on social network and flows in cities and their impact on spatial behaviors  
+
+#### Research Intern, KAIST
+Maturepolis Lab (Lead: Dr. David Lee), Department of Civil and Evnironmental Engineering
 
 ---
 
 ### Publication 
+#### Characteristics of Individuals with Global, Local or Glocal Connectivity Patterns
+Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. (Abstract Submitted)
+67th Annual North American Meetings of the Regional Science Association International, November, 2020 
 
+#### Inferring the character of urban commercial areas from age-biased online search results: how place recommendation data can reveal dynamic seoul neighborhoods
+Lee, D., Lee, S. 
+UbiComp/ISWC '19
 
-
+#### Planning for Romantic Relationships: A Case Study of a U.S. College Town. Journal of Planning Education and Research.
+Andris, C and Lee, S. (In Review) 
+Journal of Urbnism
 
 ---
+
