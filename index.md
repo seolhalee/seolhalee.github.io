@@ -34,9 +34,9 @@ Liang, X., <span style="#3d2478">Lee, S.</span>, Andris, C., Chen, H., and De La
 Lee, D., <span style="color:#3d2478">Lee, S.</span>  
 UbiComp/ISWC '19 
 
-<! ---#### Planning for Romantic Relationships: A Case Study of a U.S. College Town. Journal of Planning Education and Research.---!>
-<! ---<span style="color:#3d2478">Andris, C and <strong>Lee, S.</strong></span>---!>         
-<! ---Journal of Urbnism, 2020 (In Review)---!>
+(#### Planning for Romantic Relationships: A Case Study of a U.S. College Town. Journal of Planning Education and Research.)
+(<span style="color:#3d2478">Andris, C and <strong>Lee, S.</strong></span>)
+(Journal of Urbnism, 2020 (In Review))
 
 ---
 
@@ -53,6 +53,13 @@ Maturepolis Lab (Lead: Dr. David Lee), Department of Civil and Evnironmental Eng
 ---
 
 ## Work Experience 
+
+#### Intern
+Atlanta Regional Commission, Atlanta, GA, US _2020_
+> Team: Research & Analytics, Transportation & Mobility Services (Joint)
+> - Technical support to improve public acces to urban data
+> - Spatial analysis for equitable commuting regarding COVID-19  
+
 #### Urban Planner / GIS Analyst
 YANJI.CO.LTD., Seoul, South Korea _2017-2019_
 > Design and Implement Interactive Media for Participatory planning workshops 
