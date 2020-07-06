@@ -1,9 +1,11 @@
 title: Seolha Lee # your name (or website title) here
 logo: "/images/IMG-1490.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  seolha.lee@gatech.edu 
-  <br><br>
-  Second description 
+  Urban Planning / Data Analytics
+  Focus on Interactions between 
+  Human - Place - Technology
+  <br><br> 
+  <a href = 'mailto:seolha.lee@gatech.edu'>seolha.lee@gatech.edu</a?
   <br><br>
   
 theme: jekyll-theme-minimal
