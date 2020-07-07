@@ -34,9 +34,7 @@ Liang, X., <span style="#3d2478">Lee, S.</span>, Andris, C., Chen, H., and De La
 Lee, D., <span style="color:#3d2478">Lee, S.</span>  
 UbiComp/ISWC '19 
 
-(#### Planning for Romantic Relationships: A Case Study of a U.S. College Town. Journal of Planning Education and Research.)
-(<span style="color:#3d2478">Andris, C and <strong>Lee, S.</strong></span>)
-(Journal of Urbnism, 2020 (In Review))
+
 
 ---
 
