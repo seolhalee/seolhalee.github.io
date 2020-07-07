@@ -1,16 +1,16 @@
 ## Bio
 
 I'm a master student in [City and Regional Planning at Georgia Institute of Technology](https://planning.gatech.edu/).   
-At the nexus of human, technology and physical space, I combine computational and qualitative methods to:   
+At the nexus of human, technology, and physical space, I combine computational and qualitative methods to:   
 - Measuring **collective perceptions and behaviors** of people in cities using new sources of data  
-- Answer the questions regarding **the social good and bad of digital technologies in how people learn, access, and experience physcial space** 
+- Answer the questions regarding **the social good and bad of digital technologies in how people learn, access, and experience physical space** 
 
 I'm currently part of [Friendly Cities Lab](http://friendlycities.gatech.edu/) at Georgia Tech, where I explore social flows and spatial behaviors to promote social health and joy in cities with a marvelous team. 
 
 
-Before I joined the current program, I studied Civil & Environmental Engineering at Seoul National University in South Korea, with minor in Geography. I focused on **inferring complex functionality and identity of places** and **assessing their experiential quality** (activity and perception) using both quantitative and qualitative methods. 
+Before I joined the current program, I studied Civil & Environmental Engineering at Seoul National University in South Korea, with a minor in Geography. I focused on **inferring complex functionality and identity of places** and **assessing their experiential quality** (activity and perception) using both quantitative and qualitative methods. 
 
-While pursuing academic enthusiasm, I worked in practice as strategic designer/GIS analyst in an urban planning & design studio for 2 years, designing and implementing variety of participatory planning processes.   
+While pursuing academic enthusiasm, I worked in practice as a strategic designer/GIS analyst in an urban planning & design studio for 2 years, designing and implementing a variety of participatory planning processes.   
 
 ---
 
@@ -47,7 +47,7 @@ Friendly Cities Lab (Lead: Dr. Clio Andris), School of City and Regional Plannin
 > Conducting computational research on social network and flows in cities and their impact on spatial behaviors  
 
 #### Research Intern, KAIST
-Maturepolis Lab (Lead: Dr. David Lee), Department of Civil and Evnironmental Engineering _2018_ 
+Maturepolis Lab (Lead: Dr. David Lee), Department of Civil and Environmental Engineering _2018_ 
 > Studied the demographic pattern in commercial districts using search engine data and card transaction data. 
 
 ---
@@ -57,7 +57,7 @@ Maturepolis Lab (Lead: Dr. David Lee), Department of Civil and Evnironmental Eng
 #### Intern
 Atlanta Regional Commission, Atlanta, GA, US _2020_
 > Team: Research & Analytics, Transportation & Mobility Services (Joint)
-> - Technical support to improve public acces to urban data
+> - Technical support to improve public access to urban data
 > - Spatial analysis for equitable commuting regarding COVID-19  
 
 #### Urban Planner / GIS Analyst
