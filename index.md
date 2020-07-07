@@ -41,11 +41,11 @@ UbiComp/ISWC '19
 ## Research Experience
 
 ####  Graduate Research Assistant, Georgia Tech  
-Friendly Cities Lab (Lead: Dr. Clio Andris), School of City and Regional Planning _2019-Present_   
+[Friendly Cities Lab](http://friendlycities.gatech.edu/) (Lead: Dr. Clio Andris), School of City and Regional Planning _2019-Present_   
 > Conducting computational research on social network and flows in cities and their impact on spatial behaviors  
 
 #### Research Intern, KAIST
-Maturepolis Lab (Lead: Dr. David Lee), Department of Civil and Environmental Engineering _2018_ 
+[Maturepolis Lab](https://maturepolis.com/) (Lead: Dr. David Lee), Department of Civil and Environmental Engineering _2018_ 
 > Studied the demographic pattern in commercial districts using search engine data and card transaction data. 
 
 ---
