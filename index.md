@@ -27,12 +27,12 @@ Minor in Geography
 
 ## Publication 
 **Characteristics of Individuals with Global, Local or Glocal Connectivity Patterns** (Abstract Submitted)  
-Liang, X., <span style="#3d2478">Lee, S.</span>, Andris, C., Chen, H., and De La Pena, B.  
+Liang, X., <span style="color:#3d2478">Lee, S.</span>, Andris, C., Chen, H., and De La Pena, B.  
 67th Annual North American Meetings of the Regional Science Association International, November, 2020    
 
 **Inferring the character of urban commercial areas from age-biased online search results: how place recommendation data can reveal dynamic seoul neighborhoods**  
-Lee, D., <span style="color:#3d2478">Lee, S.</span>  
-UbiComp/ISWC '19 
+Lee, D., <span style="color:#3d2478">Lee, S.</span>    
+In Adjunct Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers (UbiComp/ISWC ’19 Adjunct)
 
 
 
@@ -60,6 +60,6 @@ Atlanta Regional Commission, Atlanta, GA, US _2020_
 
 #### Urban Planner / GIS Analyst
 YANJI.CO.LTD., Seoul, South Korea _2017-2019_
-> Design and Implement Interactive Media for Participatory planning workshops 
-> Spatial Analysis for strategic designs to better use public spaces  
+> - Design and Implement Interactive Media for Participatory planning workshops   
+> - Spatial Analysis for strategic designs to better use public spaces  
 
