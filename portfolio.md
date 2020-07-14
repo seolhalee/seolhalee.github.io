@@ -1,8 +1,11 @@
 ## Portfolio
 ---
-## Socailly Constructed Space: Place Dynamics and Digital Media 
-> Places are not the fixed truth of built environment, but socially constructed through direct and indirect experiences and knowledge earned both in physcial and digital spaces. 
+## Socially Constructed Space: Place Dynamics and Digital Media 
+> Places are not the fixed truth of built environment, but socially constructed through direct and indirect experiences and knowledge earned both in physcial and digital spaces.  
+<p></p>
+
 ### Places of Mine, Yours, and Theirs: Comparing the Diverging Images/Functionality of Places on Social Media and on Site
+
 _Independent Study, Working Paper, 2019-2020_  
 <p>Social media is growing its impact on all parts of our society. Then how about the places we live in?  In this study, I used social media text data to infer the perceived functionality and identity of a place with both physical and social changes going on. Then I compared the answers to the physical ground-truth and the answers from on-site actors(tenants, activists). The area called ‘Eulji-ro’ is where a crafts industry cluster once prospered but now is rapidly transforming into art and food destinations. In the meantime, the craftsmen are protesting against a massive redevelopment plan of the area approved recently by the city government. In these  Conflicting expectations and blames are reported. The result showed 1) the dominant function of the area on social media is a food destination, 2) there are three different levels of attachment(engagement) found, with a diverging opinion on what to preserve and to change in the area.</p> 
 
@@ -16,6 +19,7 @@ _Publication: Lee, D., Lee, S. Inferring the character of urban commercial areas
 
 ---
 ## Spatially Embedded Social Network and Interactions 
+> Social networks are spatially embedded, and interact with our lives in physical spaces. How can we 
 ### COVID-19 Event Risk Planner  
 _Interactive Map, Web Development, 2020_    
 <p>I designed and developed an interactive map tool to inform the expected risk of gatherings and group events in each county in the US, as a part of the COVID-19 Event Risk Planner web tool developed by Weitz Team at Georgia Tech BioScience. The web app has been gathering huge public attention and featured in Fast Company, AJC, and other press.    
@@ -33,6 +37,7 @@ _Publication: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Chara
 
 ---
 ## Civic Paticipation and Media 
+> 
 
 ### Returning Gendered Playground to All: Participatory Design for Inclusive Playful Places 
 _Pariticipatory Design Workshop, 2018_  
@@ -44,7 +49,8 @@ _Mobile App Prototyping and Pilot Implementation, 2018_
 
 
 ---
-## Human Experience Design Research  
+## Human Experience Design Research 
+> 
 
 ### Augmenting the Visaul Experience on GPS Tracks using ML Techniques 
 _Course Project, Urban Ecological Design, 2019_    
