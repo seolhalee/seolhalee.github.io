@@ -1,7 +1,7 @@
 ## Portfolio
 ---
 ## Socailly Constructed Space: Place Dynamics and Digital Media 
-> Places are not the fixed truth of built environment, but socially constructed through direct and indirect experience and knowledged earned both in physcial and digital spaces.   
+> Places are not the fixed truth of built environment, but socially constructed through direct and indirect experience and knowledged earned both in physcial and digital spaces. 
 ---
 ### Places of Mine, Yours, and Theirs: Comparing the Diverging Images/Functionality of Places on Social Media and on Site
 _Independent Study, Working Paper, 2019-2020_  
