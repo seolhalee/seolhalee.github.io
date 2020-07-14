@@ -1,9 +1,9 @@
 ## Portfolio
 ---
 ## Socailly Constructed Space: Place Dynamics and Digital Media 
+> Places are not the fixed truth of built environment, but socially constructed through direct and indirect experience and knowledged earned both in physcial and digital spaces.   
 ---
 ### Places of Mine, Yours, and Theirs: Comparing the Diverging Images/Functionality of Places on Social Media and on Site
-> Places are not the fixed truth of built environment, but socially constructed through direct and indirect experience and knowledged earned both in physcial and digital spaces.  
 _Independent Study, Working Paper, 2019-2020_  
 Social media is growing its impact on all parts of our society. Then how about the places we live?  In this study, I used social media text data to infer the perceived functionality and identity of a place with both physical and social changes going on. Then I compared the answers to the physical ground-truth and the answers from on-site actors(tenants, activists). The area called ‘Eul-jiro’ is where a crafts industry cluster once prospered but now is rapidly transforming into art and food destinations. In the meantime, the craftsmen are protesting against a massive redevelopment plan of the area approved recently by the city government. In these  Conflicting expectations and blames are reported. The result showed 1) the dominant functionality of the area on social media is a food destination, 2) there are three different level of attachment(engagement) found, with diverging opinion on what to preserve and to change in the area. 
 
