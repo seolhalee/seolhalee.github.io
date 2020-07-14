@@ -61,6 +61,7 @@ _Pariticipatory Design Workshop, 2018_
 _Mobile App Prototyping and Pilot Implementation, 2018_  
 <p>Namsan-Maeul Talk is a mobile app to help people understand convoluted urban plans and enable them to engage in the process ubiquitously. In a series of participatory workshops, many residents, mostly elderly women, shared their stories of having hard time understanding the plans and announcements which made them even harder to ask help from their friends and younger children. To lower these barriers and help citizens to be better aware of plan implementations, we designed this app that provides residents a real-time progress dashboard and proactive notifications of any actions or changes pertaining to the plans as well as neighborhood events proactively. The app was introduced as a pilot program and tested on-site during the workshop period.</p>  
 
+<p><br></p>
 
 ---
 ## Human Experience Design Research 
