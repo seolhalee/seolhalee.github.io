@@ -18,9 +18,9 @@ _Independent Study, Working Paper, 2019-2020_
 _Conference Paper, In UbiComp 2019 Adjunct Proceedings_  
 <p>What does the different result of age-biased place recommendation data tell us about a place? Can it tell us more than simply that your peer group has a disparate taste from younger or older age groups, such as if commercial places present options appealing only to certain age groups? In this study, we analyzed the consumer-age-specific patterns of restaurant preferences in commercial areas of Seoul, through the mining of place recommendation results from the Naver Place online service.  Our results suggest that both high-traffic and rapidly changing commercial areas present diverse options appealing to all age groups and that this diversity is primarily driven by the tastes of younger age groups.</p>   
 <p style="margin:auto">
-  <img src="/images/naver2.jpg" width="200" />
-  <img src="/images/TDITHIcapture.PNG" width="200" /> 
-  <img src="/images/naver3.PNG" width="200" />
+  <img src="/images/naver2.jpg" width="30%" />
+  <img src="/images/TDITHIcapture.PNG" width="25%" /> 
+  <img src="/images/naver3.PNG" width="30%" />
 </p>
 _Publication: Lee, D., Lee, S. Inferring the character of urban commercial areas from age-biased online search results: how place recommendation data can reveal dynamic seoul neighborhoods, In Ubicomp 2019 Adjunct Proceedings_  
 
@@ -64,15 +64,17 @@ _Publication: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Chara
 ### Returning Gendered Playground to All: Participatory Design for Inclusive Playful Places 
 _Pariticipatory Design Workshop, 2018_  
 <p>During the participatory workshop for an urban regeneration project in Cheon-an, South Korea, the workshop studio, which was more like a salon that anyone can walk in and have a chat, was visited by many elderly women who have rarely. By creating open offices instead of formal we could have the stories from elderly women. The most revealing part of their stories was the neighborhood didn't have a place for elderly women to PLAY.  With additional field investigations with the residents, we found that most of the public spaces in the neighborhood are highly masculinized: the huge shade under the bridge was used as a gambling yard for old men, and the enclosed green spaces were rarely used by women because they felt unsafe and even threatened in those spaces. These findings led us to aim to return the gendered, threatening playground to all. In the final, we suggested redesigning the public spaces with three design principles: to make the places visually open, connected as a network accessible to all, and to place more inclusive and engaging programs.</p>  
-![namsan](/images/namsan_workshop3_color.jpg) 
+<div class="img-container">
+  <img src="/images/namsan_workshop3_color.jpg" width="70%">
+</div>
 <p><br></p>
 
 ### Mobile App for Commutnity Engagement
 _Mobile App Prototyping and Pilot Implementation, 2018_  
 <p>Namsan-Maeul Talk is a mobile app to help people understand convoluted urban plans and enable them to engage in the process ubiquitously. In a series of participatory workshops, many residents, mostly elderly women, shared their stories of having hard time understanding the plans and announcements which made them even harder to ask help from their friends and younger children. To lower these barriers and help citizens to be better aware of plan implementations, we designed this app that provides residents a real-time progress dashboard and proactive notifications of any actions or changes pertaining to the plans as well as neighborhood events proactively. The app was introduced as a pilot program and tested on-site during the workshop period.</p>
 <div class="img-container">
-  <img src="/images/talk1.PNG" width="200" />
-  <img src="/images/talk2.PNG" width="200" />
+  <img src="/images/talk1.PNG" width="25%" />
+  <img src="/images/talk2.PNG" width="30%" />
 </div>
 <p><br></p>
 
@@ -85,10 +87,12 @@ _Mobile App Prototyping and Pilot Implementation, 2018_
 _Course Project, Urban Ecological Design, 2019_    
 <p>GPS tracking gives us granular Spatio-temporal information about how people move and do things in cities, yet the experiential context we can earn from the data is highly limited. In this class project,  I adopted machine learning algorithms (classification and image segmentation) to infer two contextual information of daily movements from GPS track data: 1) trip purpose and mode, 2) visual component achieved along a trip. Trips for a day of ~~ individuals in Tokyo, Japan were processed and the result answers the following questions: Where do people pass by for their daily trips? How would be the scenes they see along with their trips? Is the sequence of scenes different when you take a trip for different purposes? like when you commute, do some daily tasks, or go to hang out?</p>
 <div class="img-container">
-  <img src="/images/ued3.PNG" width="50%" />
+  <img src="/images/ued3.PNG" width="60%" />
   <img src="/images/ueddemo.gif" width="20%" />
 </div>
 <p><br></p>
 ### Urban Code: Object + Sensation + Emotion    
 _Undergraduate Thesis, Seoul National University, 2018_    
-![urbancode](/images/shinrim1.PNG) 
+<div class="img-container">
+  <img src="/images/shinrim1.PNG" width="70%" />
+</div>
