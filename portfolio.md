@@ -88,7 +88,7 @@ _Course Project, Urban Ecological Design, 2019_
 <p>GPS tracking gives us granular Spatio-temporal information about how people move and do things in cities, yet the experiential context we can earn from the data is highly limited. In this class project,  I adopted machine learning algorithms (classification and image segmentation) to infer two contextual information of daily movements from GPS track data: 1) trip purpose and mode, 2) visual component achieved along a trip. Trips for a day of ~~ individuals in Tokyo, Japan were processed and the result answers the following questions: Where do people pass by for their daily trips? How would be the scenes they see along with their trips? Is the sequence of scenes different when you take a trip for different purposes? like when you commute, do some daily tasks, or go to hang out?</p>
 <div class="img-container">
   <img src="/images/ued3.PNG" width="60%" />
-  <img src="/images/ueddemo.gif" width="20%" />
+  <img src="/images/ueddemo.gif" width="25%" />
 </div>
 <p><br></p>
 ### Urban Code: Object + Sensation + Emotion    
