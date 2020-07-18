@@ -8,18 +8,18 @@
 
 _Independent Study, Working Paper, 2019-2020_  
 <p>Social media is growing its impact on all parts of our society. Then how about the places we live in?  In this study, I used social media text data to infer the perceived functionality and identity of a place with both physical and social changes going on. Then I compared the answers to the physical ground-truth and the answers from on-site actors(tenants, activists). The area called ‘Eulji-ro’ is where a crafts industry cluster once prospered but now is rapidly transforming into art and food destinations. In the meantime, the craftsmen are protesting against a massive redevelopment plan of the area approved recently by the city government. In these  Conflicting expectations and blames are reported. The result showed 1) the dominant function of the area on social media is a food destination, 2) there are three different levels of attachment(engagement) found, with a diverging opinion on what to preserve and to change in the area.</p> 
-<br>
-![Eulji-ro](/images/KakaoTalk_20190317_233745558.jpg) ![Eulji-ro](/images/KakaoTalk_20190318_125535456.png)
-<br>
+Solarized dark             |  Solarized Ocean          
+:-------------------------:|:-------------------------:
+![Eulji-ro](/images/KakaoTalk_20190317_233745558.jpg) |  ![Eulji-ro](/images/KakaoTalk_20190318_125535456.png)
 
 <p><br></p>
 
 ### Inferring the Commercial Landscape using Age-biased Online Search Results
 _Conference Paper, In UbiComp 2019 Adjunct Proceedings_  
 <p>What does the different result of age-biased place recommendation data tell us about a place? Can it tell us more than simply that your peer group has a disparate taste from younger or older age groups, such as if commercial places present options appealing only to certain age groups? In this study, we analyzed the consumer-age-specific patterns of restaurant preferences in commercial areas of Seoul, through the mining of place recommendation results from the Naver Place online service.  Our results suggest that both high-traffic and rapidly changing commercial areas present diverse options appealing to all age groups and that this diversity is primarily driven by the tastes of younger age groups.</p>   
-<br>
-![naver1](/images/naver2.jpg) ![naver2](/images/TDITHI.pdf) ![naver3](/images/naver3.png)
-<br>
+Solarized dark             |  Solarized Ocean          |  Solarized Ocean
+:-------------------------:|:-------------------------:|:-------------------------:
+![naver1](/images/naver2.jpg)  |  ![naver2](/images/TDITHI.pdf)  |  ![naver3](/images/naver3.png)
 _Publication: Lee, D., Lee, S. Inferring the character of urban commercial areas from age-biased online search results: how place recommendation data can reveal dynamic seoul neighborhoods, In Ubicomp 2019 Adjunct Proceedings_  
 
 <p><br></p>
@@ -34,10 +34,9 @@ _Publication: Lee, D., Lee, S. Inferring the character of urban commercial areas
 _Interactive Map, Web Development, 2020_    
 <p>I designed and developed an interactive map tool to inform the expected risk of gatherings and group events in each county in the US, as a part of the COVID-19 Event Risk Planner web tool developed by Weitz Team at Georgia Tech BioScience. The web app has been gathering huge public attention and featured in Fast Company, AJC, and other press. 
 <br>
-- <a href = "https://covid19risk.biosci.gatech.edu/">Check out the current COVID-19 risk level of group events</a>
-<br>
+- <a href = "https://covid19risk.biosci.gatech.edu/">Check out the current COVID-19 risk level of group events</a></p>
 ![COVIDtool](/images/covid.png)
-<br>
+<p>
 Featured Articles:
 <br>
 - Is it safe to go to a local store or school? Real-time COVID-19 risk calculator helps you decide, FastCampus, July 13, 2020 <a href = "https://www.fastcompany.com/90527197/is-it-safe-to-go-to-a-local-store-or-school-real-time-covid-19-risk-calculator-helps-you-decide">Link</a></p>
@@ -46,9 +45,7 @@ Featured Articles:
 
 ### Who Has Local, Global, Glocal Set of Connections?: Classifying Individual Spatial and Social Networks
 _Conference Paper, NARSC 2020_  
-<br>
 ![ncs1](/images/ncs1.jpg)
-<br>
 _Publication: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Characteristics of Individuals with Global, Local or Glocal Connectivity Patterns, NARSC, 2020_  
 
 <p><br></p>
@@ -62,15 +59,15 @@ _Publication: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Chara
 ### Returning Gendered Playground to All: Participatory Design for Inclusive Playful Places 
 _Pariticipatory Design Workshop, 2018_  
 <p>During the participatory workshop for an urban regeneration project in Cheon-an, South Korea, the workshop studio, which was more like a salon that anyone can walk in and have a chat, was visited by many elderly women who have rarely. By creating open offices instead of formal we could have the stories from elderly women. The most revealing part of their stories was the neighborhood didn't have a place for elderly women to PLAY.  With additional field investigations with the residents, we found that most of the public spaces in the neighborhood are highly masculinized: the huge shade under the bridge was used as a gambling yard for old men, and the enclosed green spaces were rarely used by women because they felt unsafe and even threatened in those spaces. These findings led us to aim to return the gendered, threatening playground to all. In the final, we suggested redesigning the public spaces with three design principles: to make the places visually open, connected as a network accessible to all, and to place more inclusive and engaging programs.</p>  
-<br>
-![ncs1](/images/ncs1.jpg)
-<br>
+![namsan](/images/namsan_workshop3.jpg) 
 <p><br></p>
 
 ### Mobile App for Commutnity Engagement
 _Mobile App Prototyping and Pilot Implementation, 2018_  
-<p>Namsan-Maeul Talk is a mobile app to help people understand convoluted urban plans and enable them to engage in the process ubiquitously. In a series of participatory workshops, many residents, mostly elderly women, shared their stories of having hard time understanding the plans and announcements which made them even harder to ask help from their friends and younger children. To lower these barriers and help citizens to be better aware of plan implementations, we designed this app that provides residents a real-time progress dashboard and proactive notifications of any actions or changes pertaining to the plans as well as neighborhood events proactively. The app was introduced as a pilot program and tested on-site during the workshop period.</p>  
-
+<p>Namsan-Maeul Talk is a mobile app to help people understand convoluted urban plans and enable them to engage in the process ubiquitously. In a series of participatory workshops, many residents, mostly elderly women, shared their stories of having hard time understanding the plans and announcements which made them even harder to ask help from their friends and younger children. To lower these barriers and help citizens to be better aware of plan implementations, we designed this app that provides residents a real-time progress dashboard and proactive notifications of any actions or changes pertaining to the plans as well as neighborhood events proactively. The app was introduced as a pilot program and tested on-site during the workshop period.</p>
+Solarized dark             |  Solarized Ocean       
+:-------------------------:|:-------------------------:
+![app](/images/talk1.png) !| [app1](/images/talk2.png) 
 <p><br></p>
 
 ---
