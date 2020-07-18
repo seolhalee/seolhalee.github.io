@@ -15,9 +15,11 @@ _Independent Study, Working Paper, 2019-2020_
 ### Inferring the Commercial Landscape using Age-biased Online Search Results
 _Conference Paper, In UbiComp 2019 Adjunct Proceedings_  
 <p>What does the different result of age-biased place recommendation data tell us about a place? Can it tell us more than simply that your peer group has a disparate taste from younger or older age groups, such as if commercial places present options appealing only to certain age groups? In this study, we analyzed the consumer-age-specific patterns of restaurant preferences in commercial areas of Seoul, through the mining of place recommendation results from the Naver Place online service.  Our results suggest that both high-traffic and rapidly changing commercial areas present diverse options appealing to all age groups and that this diversity is primarily driven by the tastes of younger age groups.</p>   
-Solarized dark             |  Solarized Ocean          |  Solarized Ocean  
-:-------------------------:|:-------------------------:|:-------------------------:  
-![naver1](/images/naver2.jpg)  |  ![naver2](/images/TDITHI.pdf)  |  ![naver3](/images/naver3.png)  
+<p float="left">
+  <img src="/images/naver2.jpg" width="200" />
+  <embed src="/images/TDITHI.pdf" width="200" /> 
+  <img src="/images/naver3.png" width="200" />
+</p>
 _Publication: Lee, D., Lee, S. Inferring the character of urban commercial areas from age-biased online search results: how place recommendation data can reveal dynamic seoul neighborhoods, In Ubicomp 2019 Adjunct Proceedings_  
 
 <p><br></p>
@@ -33,7 +35,9 @@ _Interactive Map, Web Development, 2020_
 <p>I designed and developed an interactive map tool to inform the expected risk of gatherings and group events in each county in the US, as a part of the COVID-19 Event Risk Planner web tool developed by Weitz Team at Georgia Tech BioScience. The web app has been gathering huge public attention and featured in Fast Company, AJC, and other press. 
 <br>
 - <a href = "https://covid19risk.biosci.gatech.edu/">Check out the current COVID-19 risk level of group events</a></p>
-![COVIDtool](/images/covid.png)
+<p float = "left">
+  <img src="/images/covid.png" width="700"/>
+</p>
 <p>
 Featured Articles:
 <br>
@@ -63,9 +67,10 @@ _Pariticipatory Design Workshop, 2018_
 ### Mobile App for Commutnity Engagement
 _Mobile App Prototyping and Pilot Implementation, 2018_  
 <p>Namsan-Maeul Talk is a mobile app to help people understand convoluted urban plans and enable them to engage in the process ubiquitously. In a series of participatory workshops, many residents, mostly elderly women, shared their stories of having hard time understanding the plans and announcements which made them even harder to ask help from their friends and younger children. To lower these barriers and help citizens to be better aware of plan implementations, we designed this app that provides residents a real-time progress dashboard and proactive notifications of any actions or changes pertaining to the plans as well as neighborhood events proactively. The app was introduced as a pilot program and tested on-site during the workshop period.</p>
-Solarized dark             |  Solarized Ocean         
-:-------------------------:|:-------------------------:  
-![app](/images/talk1.png) !| [app1](/images/talk2.png)   
+<p float="left">
+  <img src="/images/talk1.png" width="200" />
+  <img src="/images/talk2.png" width="200" />
+</p>
 <p><br></p>
 
 ---
