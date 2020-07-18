@@ -8,7 +8,7 @@
 
 _Independent Study, Working Paper, 2019-2020_  
 <p>Social media is growing its impact on all parts of our society. Then how about the places we live in?  In this study, I used social media text data to infer the perceived functionality and identity of a place with both physical and social changes going on. Then I compared the answers to the physical ground-truth and the answers from on-site actors(tenants, activists). The area called ‘Eulji-ro’ is where a crafts industry cluster once prospered but now is rapidly transforming into art and food destinations. In the meantime, the craftsmen are protesting against a massive redevelopment plan of the area approved recently by the city government. In these  Conflicting expectations and blames are reported. The result showed 1) the dominant function of the area on social media is a food destination, 2) there are three different levels of attachment(engagement) found, with a diverging opinion on what to preserve and to change in the area.</p> 
-![Eulji-ro](/images/euljirocapture.PNG | width="400")
+![Eulji-ro](/images/euljirocapture.PNG | width=400)
 
 <p><br></p>
 
@@ -79,8 +79,8 @@ _Mobile App Prototyping and Pilot Implementation, 2018_
 ### Augmenting the Visaul Experience on GPS Tracks using ML Techniques 
 _Course Project, Urban Ecological Design, 2019_    
 <p>GPS tracking gives us granular Spatio-temporal information about how people move and do things in cities, yet the experiential context we can earn from the data is highly limited. In this class project,  I adopted machine learning algorithms (classification and image segmentation) to infer two contextual information of daily movements from GPS track data: 1) trip purpose and mode, 2) visual component achieved along a trip. Trips for a day of ~~ individuals in Tokyo, Japan were processed and the result answers the following questions: Where do people pass by for their daily trips? How would be the scenes they see along with their trips? Is the sequence of scenes different when you take a trip for different purposes? like when you commute, do some daily tasks, or go to hang out?</p>
-![namsan](/images/ued3.PNG) ![ueddemo](/images/ueddemo.gif)
+![namsan](/images/ued3.PNG | width =300) ![ueddemo](/images/ueddemo.gif | width=100)
 <p><br></p>
 ### Urban Code: Object + Sensation + Emotion    
 _Undergraduate Thesis, Seoul National University, 2018_    
-![urbancode](/images/shimrim1.PNG) 
+![urbancode](/images/shinrim1.PNG) 
