@@ -7,8 +7,10 @@
 ### Places of Mine, Yours, and Theirs: Comparing the Diverging Images/Functions of Places on Social Media and on Site
 
 _Independent Study, Working Paper, 2019-2020_  
-<p>Social media is growing its impact on all parts of our society. Then how about the places we live in?  In this study, I used social media text data to infer the perceived functionality and identity of a place with both physical and social changes going on. Then I compared the answers to the physical ground-truth and the answers from on-site actors(tenants, activists). The area called ‘Eulji-ro’ is where a crafts industry cluster once prospered but now is rapidly transforming into art and food destinations. In the meantime, the craftsmen are protesting against a massive redevelopment plan of the area approved recently by the city government. In these  Conflicting expectations and blames are reported. The result showed 1) the dominant function of the area on social media is a food destination, 2) there are three different levels of attachment(engagement) found, with a diverging opinion on what to preserve and to change in the area.
-<img src="/images/euljirocapture.PNG" width="70%"></p> 
+<p>Social media is growing its impact on all parts of our society. Then how about the places we live in?  In this study, I used social media text data to infer the perceived functionality and identity of a place with both physical and social changes going on. Then I compared the answers to the physical ground-truth and the answers from on-site actors(tenants, activists). The area called ‘Eulji-ro’ is where a crafts industry cluster once prospered but now is rapidly transforming into art and food destinations. In the meantime, the craftsmen are protesting against a massive redevelopment plan of the area approved recently by the city government. In these  Conflicting expectations and blames are reported. The result showed 1) the dominant function of the area on social media is a food destination, 2) there are three different levels of attachment(engagement) found, with a diverging opinion on what to preserve and to change in the area.</p>
+<div class="img-container">
+  <img src="/images/euljirocapture.PNG" width="70%">
+</div> 
 
 <p><br></p>
 
@@ -46,7 +48,9 @@ Featured Articles:
 ### Who Has Local, Global, Glocal Set of Connections?: Classifying Individual Spatial and Social Networks
 _Conference Paper, NARSC 2020_  
 
-<p><img src="/images/ncs1_small.jpg" width="70%"></p> 
+<div class="img-container">
+  <img src="/images/ncs1_small.jpg" width="70%">
+</div>
 _Publication: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Characteristics of Individuals with Global, Local or Glocal Connectivity Patterns, NARSC, 2020_  
 
 <p><br></p>
@@ -66,10 +70,10 @@ _Pariticipatory Design Workshop, 2018_
 ### Mobile App for Commutnity Engagement
 _Mobile App Prototyping and Pilot Implementation, 2018_  
 <p>Namsan-Maeul Talk is a mobile app to help people understand convoluted urban plans and enable them to engage in the process ubiquitously. In a series of participatory workshops, many residents, mostly elderly women, shared their stories of having hard time understanding the plans and announcements which made them even harder to ask help from their friends and younger children. To lower these barriers and help citizens to be better aware of plan implementations, we designed this app that provides residents a real-time progress dashboard and proactive notifications of any actions or changes pertaining to the plans as well as neighborhood events proactively. The app was introduced as a pilot program and tested on-site during the workshop period.</p>
-<p float="left">
+<div class="img-container">
   <img src="/images/talk1.PNG" width="200" />
   <img src="/images/talk2.PNG" width="200" />
-</p>
+</div>
 <p><br></p>
 
 ---
@@ -80,10 +84,10 @@ _Mobile App Prototyping and Pilot Implementation, 2018_
 ### Augmenting the Visaul Experience on GPS Tracks using ML Techniques 
 _Course Project, Urban Ecological Design, 2019_    
 <p>GPS tracking gives us granular Spatio-temporal information about how people move and do things in cities, yet the experiential context we can earn from the data is highly limited. In this class project,  I adopted machine learning algorithms (classification and image segmentation) to infer two contextual information of daily movements from GPS track data: 1) trip purpose and mode, 2) visual component achieved along a trip. Trips for a day of ~~ individuals in Tokyo, Japan were processed and the result answers the following questions: Where do people pass by for their daily trips? How would be the scenes they see along with their trips? Is the sequence of scenes different when you take a trip for different purposes? like when you commute, do some daily tasks, or go to hang out?</p>
-<p float="left">
+<div class="img-container">
   <img src="/images/ued3.PNG" width="50%" />
   <img src="/images/ueddemo.gif" width="20%" />
-</p>
+</div>
 <p><br></p>
 ### Urban Code: Object + Sensation + Emotion    
 _Undergraduate Thesis, Seoul National University, 2018_    
