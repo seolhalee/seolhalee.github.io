@@ -65,7 +65,7 @@ _Publication: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Chara
 _Pariticipatory Design Workshop, 2018_  
 <p>During the participatory workshop for an urban regeneration project in Cheon-an, South Korea, the workshop studio, which was more like a salon that anyone can walk in and have a chat, was visited by many elderly women. The most revealing part of their stories was the neighborhood didn't have a place for elderly women to PLAY. With additional field investigations with the residents, we found that most of the public spaces in the neighborhood are highly masculinized: the huge shade under the bridge was used as a gambling yard for old men, and the enclosed green spaces were rarely used by women because they felt unsafe and even threatened in those spaces. These findings led us to aim to return the gendered, threatening playground to all. In the final pesentation, we suggested to redesign the public spaces with three design principles: to make the places visually open, connected as a network accessible to all, and to place more inclusive and engaging programs.</p>  
 <div class="img-container">
-  <img src="/images/namsan_workshop3_color.jpg" width="70%">
+  <img src="/images/namsan_workshop3_color.jpg" width="50%">
 </div>
 <p><br></p>
 
@@ -100,7 +100,8 @@ _Course Project, Urban Ecological Design, 2019_
   <img src="/images/ueddemo.gif" width="25%" />
 </div>
 <p><br></p>
-### Urban Code: Object + Sensation + Emotion    
+
+### Urban Code: Object + Sensation + Emotion      
 _Undergraduate Thesis, Seoul National University, 2018_
 
 <div class="img-container">
