@@ -101,9 +101,9 @@ _Course Project, Urban Ecological Design, 2019_
 </div>
 <p><br></p>
 
-### Urban Code: Object + Sensation + Emotion      
+### Urban Code: Characterizing a Neighborhood by Perceived Object + Sensation + Emotion      
 _Undergraduate Thesis, Seoul National University, 2018_
 
 <div class="img-container">
-  <img src="/images/shinrim1.PNG" width="70%" />
+  <img src="/images/shinrim1.PNG" width="70%"/>
 </div>
