@@ -7,7 +7,7 @@
 ### Places of Mine, Yours, and Theirs: Comparing the Diverging Images/Functions of Places on Social Media and on Site
 
 _Independent Study, Working Paper, 2019-2020_  
-<p>Social media is growing its impact on all parts of our society. Then how about the places we live in?  In this study, I used social media text data to infer the perceived functionality and identity of a place with both physical and social changes going on. Then I compared the answers to the physical ground-truth and the answers from on-site actors(tenants, activists). The area called ‘Eulji-ro’ is where a crafts industry cluster once prospered but now is rapidly transforming into art and food destinations. In the meantime, the craftsmen are protesting against a massive redevelopment plan of the area approved recently by the city government. In these  Conflicting expectations and blames are reported. The result showed 1) the dominant function of the area on social media is a food destination, 2) there are three different levels of attachment(engagement) found, with a diverging opinion on what to preserve and to change in the area.</p>
+<p>Social media is growing its impact on all parts of our society. Then how about the places we live in? In this study, I used social media text data to infer the perceived functionality and identity of a place with both physical and social changes going on. Then I compared the answers to the physical ground-truth and the answers from on-site actors(tenants, activists). The area called ‘Eulji-ro’ is where a crafts industry cluster once prospered but now is rapidly transforming into art and food destinations. In the meantime, the craftsmen are protesting against a massive redevelopment plan of the area approved recently by the city government. The result showed 1) the dominant function of the area on social media is a food destination, rather than manufacturing and sales, 2) there are three different levels of attachment(engagement) found, with a diverging opinion on what to preserve and to change in the area.</p>
 <div class="img-container">
   <img src="/images/euljirocapture.PNG" width="70%">
 </div> 
@@ -16,7 +16,7 @@ _Independent Study, Working Paper, 2019-2020_
 
 ### Inferring the Commercial Landscape using Age-biased Online Search Results
 _Conference Paper, In UbiComp 2019 Adjunct Proceedings_  
-<p>What does the different result of age-biased place recommendation data tell us about a place? Can it tell us more than simply that your peer group has a disparate taste from younger or older age groups, such as if commercial places present options appealing only to certain age groups? In this study, we analyzed the consumer-age-specific patterns of restaurant preferences in commercial areas of Seoul, through the mining of place recommendation results from the Naver Place online service.  Our results suggest that both high-traffic and rapidly changing commercial areas present diverse options appealing to all age groups and that this diversity is primarily driven by the tastes of younger age groups.</p>   
+<p>What does the different result of age-biased place recommendation data tell us about a place? Can it tell us more than simply that your peer group has a disparate taste from younger or older age groups?; for instance, if commercial places present options appealing only to certain age groups? In this study, we analyzed the consumer-age-specific patterns of restaurant preferences in commercial areas of Seoul, through the mining of place recommendation results from the Naver Place online service. Our results suggest that both high-traffic and rapidly changing commercial areas present diverse options appealing to all age groups and that this diversity is primarily driven by the tastes of younger age groups.</p>   
 <div class="img-container">
   <img src="/images/naver2.jpg" width="35%" />
   <img src="/images/TDITHIcapture.PNG" width="28%" /> 
@@ -47,7 +47,7 @@ Featured Articles:
 
 ### Who Has Local, Global, Glocal Set of Connections?: Classifying Individual Spatial and Social Networks
 _Conference Paper, NARSC 2020_  
-
+<p>All individuals connect to a set of places with which they interact through travel, migration, location of social ties, telecommunication, and more abstract thoughts and proclivities. Collectively, these are known as social flows and form a start-like pattern that is spatially embedded. In this study we classify the connection sets (e.g.travel, migration, relationships, etc) reported from a survey into distinct typologies and investigated their correlation with individual and behavioral factors regarding social, spatial extensibility.</p> 
 <div class="img-container">
   <img src="/images/ncs1_small.jpg" width="70%">
 </div>
@@ -57,13 +57,13 @@ _Publication: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Chara
 
 ---
 ## Civic Paticipation and Media 
-> How can we establish the authorship and designership that people have in their living places?
+> How can we establish the authorship and designership that people have in their living places? 
 
 <p><br></p>
 
 ### Returning Gendered Playground to All: Participatory Design for Inclusive Playful Places 
 _Pariticipatory Design Workshop, 2018_  
-<p>During the participatory workshop for an urban regeneration project in Cheon-an, South Korea, the workshop studio, which was more like a salon that anyone can walk in and have a chat, was visited by many elderly women who have rarely. By creating open offices instead of formal we could have the stories from elderly women. The most revealing part of their stories was the neighborhood didn't have a place for elderly women to PLAY.  With additional field investigations with the residents, we found that most of the public spaces in the neighborhood are highly masculinized: the huge shade under the bridge was used as a gambling yard for old men, and the enclosed green spaces were rarely used by women because they felt unsafe and even threatened in those spaces. These findings led us to aim to return the gendered, threatening playground to all. In the final, we suggested redesigning the public spaces with three design principles: to make the places visually open, connected as a network accessible to all, and to place more inclusive and engaging programs.</p>  
+<p>During the participatory workshop for an urban regeneration project in Cheon-an, South Korea, the workshop studio, which was more like a salon that anyone can walk in and have a chat, was visited by many elderly women. The most revealing part of their stories was the neighborhood didn't have a place for elderly women to PLAY. With additional field investigations with the residents, we found that most of the public spaces in the neighborhood are highly masculinized: the huge shade under the bridge was used as a gambling yard for old men, and the enclosed green spaces were rarely used by women because they felt unsafe and even threatened in those spaces. These findings led us to aim to return the gendered, threatening playground to all. In the final pesentation, we suggested to redesign the public spaces with three design principles: to make the places visually open, connected as a network accessible to all, and to place more inclusive and engaging programs.</p>  
 <div class="img-container">
   <img src="/images/namsan_workshop3_color.jpg" width="70%">
 </div>
@@ -75,6 +75,15 @@ _Mobile App Prototyping and Pilot Implementation, 2018_
 <div class="img-container">
   <img src="/images/talk1.PNG" width="25%" />
   <img src="/images/talk2.PNG" width="30%" />
+</div>
+<p><br></p>
+
+### Indigenous Eco(-nomic) System: Community Mapping and Networking of Local Assets for Economic Empowerment
+_Participatory Workshop, Strategic Design, 2018_  
+<p>What would be the way for a shrinking community in an rural island to reinvigorate their tourism economy while preventing an enormous foreign capital poured in? In the participatory workshop held in an island currently under threat of massive development, we recovered overlooked components of indigenous ecosystem and created a network of local assets that helps to create sustainable profit-making programs. The programs inspired by our result were implemented in the followed community-led economic development project. </p>
+<div class="img-container">
+  <img src="/images/shinbi3.jpg" width="40%" />
+  <img src="/images/shinbi1.PNG" width="25%" />
 </div>
 <p><br></p>
 
@@ -92,7 +101,8 @@ _Course Project, Urban Ecological Design, 2019_
 </div>
 <p><br></p>
 ### Urban Code: Object + Sensation + Emotion    
-_Undergraduate Thesis, Seoul National University, 2018_    
+_Undergraduate Thesis, Seoul National University, 2018_
+
 <div class="img-container">
   <img src="/images/shinrim1.PNG" width="70%" />
 </div>
