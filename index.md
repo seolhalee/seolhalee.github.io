@@ -11,7 +11,7 @@ Before I joined the current program, I studied Civil & Environmental Engineering
 
 While pursuing academic enthusiasm, I worked in practice as a strategic designer/GIS analyst in an urban planning & design studio for 2 years, designing and implementing a variety of **participatory planning/design** projects    
 
-Throughout my works, I pursue to find ways to embrace plurality of urban experiences in planning/design practices for better solidarity in cities.   
+Throughout my works, I pursue to find ways to **_embrace plurality_** of urban experiences in planning/design practices for better **_solidarity_** in cities.   
 
 ---
 
