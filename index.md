@@ -2,15 +2,16 @@
 
 I'm a master student in [City and Regional Planning at Georgia Institute of Technology](https://planning.gatech.edu/).   
 At the nexus of human, technology, and physical space, I combine computational and qualitative methods to:   
-- Measure **collective perceptions and behaviors** of people in cities using new sources of data  
-- Answer the questions regarding **the social good and bad of digital technologies in how people learn, access, and experience physical space** 
+- Capture **collective perceptions and behaviors** of people in cities using new sources of data, focusing on **social gaps and power dynamics** in cities     
+- Answer the questions regarding **the social good and bad of digital media and technologies in how people learn, experience, and shape physical space**   
 
-I'm currently part of [Friendly Cities Lab](http://friendlycities.gatech.edu/) at Georgia Tech, where I explore social flows and spatial behaviors to promote social health and joy in cities with a marvelous team. 
+I'm currently part of [Friendly Cities Lab](http://friendlycities.gatech.edu/) at Georgia Tech, where I explore social flows and spatial behaviors to promote social health and joy in cities with a marvelous team.   
 
+Before I joined the current program, I studied Civil & Environmental Engineering at Seoul National University in South Korea, with a minor in Geography. I focused on **recovering overlooked dimensions of experience in built environment** using both quantitative and qualitative methods.   
 
-Before I joined the current program, I studied Civil & Environmental Engineering at Seoul National University in South Korea, with a minor in Geography. I focused on **inferring complex functionality and identity of places** and **assessing their experiential quality** (activity and perception) using both quantitative and qualitative methods. 
+While pursuing academic enthusiasm, I worked in practice as a strategic designer/GIS analyst in an urban planning & design studio for 2 years, designing and implementing a variety of **participatory planning/design** projects    
 
-While pursuing academic enthusiasm, I worked in practice as a strategic designer/GIS analyst in an urban planning & design studio for 2 years, designing and implementing a variety of participatory planning processes.   
+Throughout my works, I pursue to find ways to embrace plurality of urban experiences in planning/design practices for better solidarity in cities.   
 
 ---
 
