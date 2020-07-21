@@ -204,7 +204,7 @@
 
 
 	// Loading page
-	/*var loaderPage = function() {
+	var loaderPage = function() {
 		$(".fh5co-loader").fadeOut("slow");
 	};
 
@@ -261,7 +261,7 @@
 		loaderPage();
 		counterWayPoint();
 		fullHeight();
-	});*/
+	});
 
 
 }());
