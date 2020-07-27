@@ -61,11 +61,9 @@
 	}
 	.menu:hover {
 	  color:#303030;
-	  text-decoration: underline;
 	}
 	.menu:active {
 	  color:#303030;
-	  text-decoration: underline;
 	}
     </style>
   
@@ -112,9 +110,9 @@
           <img src="{{site.logo | /logo.png}}" alt="Logo" />
         {% endif %}
 
-        <p style="text-align:center;">{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
 	
-	<p class="view" style="text-align:center;">
+	<p class="view">
 	<a class="menu" href="/index" style="font-size: 20px;"> About </a></br>
 	<a class="menu" href="/portfolio" style="font-size: 20px;"> Portfolio </a></br>
 	<a class="menu" href="/writing" style="font-size: 20px;"> Writing </a></br>
