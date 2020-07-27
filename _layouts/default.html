@@ -44,6 +44,10 @@
 	  background: #2c4762;
 	  color: white;
 	}
+	.fa-envelope {
+	  background: #32224f;
+	  color: white;
+	}
 	.img-container {
         text-align: center;
         }
@@ -102,7 +106,7 @@
   </nav> -->
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a class="menu" href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | /logo.png}}" alt="Logo" />
@@ -117,9 +121,9 @@
 	<a class="menu" href="/cv" style="font-size: 20px;"> CV </a></p>
 		
 	<p class="view">
-		<a href="mailto:seolha.lee@gatech.edu">seolha.lee@gatech.edu</a> </br>
-		<a href="https://www.linkedin.com/in/seolha-lee/" class="fa fa-linkedin" ></a>
-	      <a href="https://github.com/seolhalee" class="fa fa-github" ></a></p>	
+	  <a href="https://www.linkedin.com/in/seolha-lee/" class="fa fa-linkedin" ></a>
+	  <a href="https://github.com/seolhalee" class="fa fa-github" ></a>
+	  <a href="mailto:seolha.lee@gatech.edu" class="fa fa-envelope"></a></p>	
      
         {% if site.show_downloads %}
         <ul class="downloads">
