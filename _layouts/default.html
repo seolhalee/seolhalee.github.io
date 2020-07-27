@@ -47,18 +47,20 @@
 	.img-container {
         text-align: center;
         }
-	a menu:link {
-	  color:#674480;
+	.menu:link {
+	  color: #676767; 
 	  text-decoration: none;
 	}
-	a menu:visited {
-          color:#402a4f;
+	.menu:visited {
+          color:#303030;
 	  text-decoration: none;
 	}
-	a:hover {
+	.menu:hover {
+	  color:#303030;
 	  text-decoration: underline;
 	}
-	a:active {
+	.menu:active {
+	  color:#303030;
 	  text-decoration: underline;
 	}
     </style>
@@ -106,12 +108,13 @@
           <img src="{{site.logo | /logo.png}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p style="text-align:center;">{{ site.description | default: site.github.project_tagline }}</p>
 	
-	<p class="view"><a href="/index" style="font-size: 16px; color: ##0b050f;, text-align: center;"> About </a></br>
-	<a href="/portfolio" style="font-size: 16px;"> Portfolio </a></br>
-	<a href="/writing" style="font-size: 16px;"> Writing </a></br>
-	<a href="/cv" style="font-size: 16px;"> CV </a></p>
+	<p class="view" style="text-align:center;">
+	<a class="menu" href="/index" style="font-size: 20px;"> About </a></br>
+	<a class="menu" href="/portfolio" style="font-size: 20px;"> Portfolio </a></br>
+	<a class="menu" href="/writing" style="font-size: 20px;"> Writing </a></br>
+	<a class="menu" href="/cv" style="font-size: 20px;"> CV </a></p>
 		
 	<p class="view">
 		<a href="mailto:seolha.lee@gatech.edu">seolha.lee@gatech.edu</a> </br>
