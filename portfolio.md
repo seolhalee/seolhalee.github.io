@@ -41,9 +41,10 @@ _Interactive Map, Web Development, 2020_
 <p>
 Selected Featured Articles:
 <br>
-* To Navigate Risk In a Pandemic, You Need a Color-Coded Chart, Wired, July 21, 2020 <a href = "https://www.wired.com/story/to-navigate-risk-in-a-pandemic-you-need-a-color-coded-chart/">Link</a>
-* Is it safe to go to a local store or school? Real-time COVID-19 risk calculator helps you decide, FastCampus, July 13, 2020 <a href = "https://www.fastcompany.com/90527197/is-it-safe-to-go-to-a-local-store-or-school-real-time-covid-19-risk-calculator-helps-you-decide">Link</a>
-</p>
+  <ul>
+  <li>To Navigate Risk In a Pandemic, You Need a Color-Coded Chart, Wired, July 21, 2020 <a href = "https://www.wired.com/story/to-navigate-risk-in-a-pandemic-you-need-a-color-coded-chart/">Link</a></li>
+  <li>Is it safe to go to a local store or school? Real-time COVID-19 risk calculator helps you decide, FastCampus, July 13, 2020 <a href = "https://www.fastcompany.com/90527197/is-it-safe-to-go-to-a-local-store-or-school-real-time-covid-19-risk-calculator-helps-you-decide">Link</a></li>
+</ul></p>
 
 <p><br></p>
 
