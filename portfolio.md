@@ -42,6 +42,7 @@ _Interactive Map, Web Development, 2020_
 Selected Featured Articles:
 <br>
   <ul>
+    <li>MapLab: An Actionable Map of Covid Risk, Bloomberg CityLab, August 05, 2020 <a href = "https://www.bloomberg.com/news/newsletters/2020-08-12/maplab-an-actionable-map-of-covid-risk">Link</a></li>
   <li>To Navigate Risk In a Pandemic, You Need a Color-Coded Chart, Wired, July 21, 2020 <a href = "https://www.wired.com/story/to-navigate-risk-in-a-pandemic-you-need-a-color-coded-chart/">Link</a></li>
   <li>Is it safe to go to a local store or school? Real-time COVID-19 risk calculator helps you decide, FastCampus, July 13, 2020 <a href = "https://www.fastcompany.com/90527197/is-it-safe-to-go-to-a-local-store-or-school-real-time-covid-19-risk-calculator-helps-you-decide">Link</a></li>
 </ul></p>
