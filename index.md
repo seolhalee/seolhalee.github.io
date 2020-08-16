@@ -61,6 +61,6 @@ Atlanta Regional Commission, Atlanta, GA, US _2020_
 
 #### Urban Planner / GIS Analyst
 YANJI.CO.LTD., Seoul, South Korea _2017-2019_
-> - Design and Implement Interactive Media for Participatory planning workshops   
+> - Designed and Implemented Interactive Media for Participatory planning workshops   
 > - Spatial Analysis for strategic designs to better use public spaces  
 
