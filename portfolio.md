@@ -9,9 +9,20 @@
 _Independent Study, Working Paper, 2019-2020_  
 <p>Social media is growing its impact on all parts of our society. Then how about the places we live in? In this study, I used social media text data to infer the perceived functionality and identity of a place with both physical and social changes going on. Then I compared the answers to the physical ground-truth and the answers from on-site actors(tenants, activists). The area called ‘Eulji-ro’ is where a crafts industry cluster once prospered but now is rapidly transforming into art and food destinations. In the meantime, the craftsmen are protesting against a massive redevelopment plan of the area approved recently by the city government. The result showed 1) the dominant function of the area on social media is a food destination, rather than manufacturing and sales, 2) there are three different levels of attachment(engagement) found, with a diverging opinion on what to preserve and to change in the area.</p>
 <div class="img-container">
-  <img src="/images/euljirocapture.PNG" width="70%">
+  <img id = "img1" src="/images/euljirocapture.PNG" width="70%">
 </div> 
+<!-- The Modal -->
+<div id="myModal" class="modal">
 
+  <!-- The Close Button -->
+  <span class="close">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="img1">
+
+  <!-- Modal Caption (Image Text) -->
+  <div id="caption"></div>
+</div>
 <p><br></p>
 
 ### Inferring the Commercial Landscape using Age-biased Online Search Results
@@ -22,6 +33,7 @@ _Conference Paper, In UbiComp 2019 Adjunct Proceedings_
   <img src="/images/TDITHIcapture.PNG" width="28%" /> 
   <img src="/images/naver3.PNG" width="28%" />
 </div>
+
 _Publication: Lee, D., Lee, S. Inferring the character of urban commercial areas from age-biased online search results: how place recommendation data can reveal dynamic seoul neighborhoods, In Ubicomp 2019 Adjunct Proceedings_  
 
 <p><br></p>
