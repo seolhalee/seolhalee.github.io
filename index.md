@@ -1,6 +1,6 @@
 ## Bio
 
-I'm a master student in [City and Regional Planning at Georgia Institute of Technology](https://planning.gatech.edu/).   
+I'm a master's student in [City and Regional Planning at Georgia Institute of Technology](https://planning.gatech.edu/).   
 At the nexus of human, technology, and physical space, I combine computational and qualitative methods to:   
 - Capture **collective perceptions and behaviors** of people in cities using new sources of data, focusing on **social gaps and power dynamics** in cities     
 - Answer the questions regarding **the social good and bad of digital media and technologies in how people learn, experience, and shape physical space**   
