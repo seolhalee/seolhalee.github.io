@@ -3,7 +3,7 @@
 I'm a master's student in [City and Regional Planning at Georgia Institute of Technology](https://planning.gatech.edu/).   
 At the nexus of human, technology, and physical space, I combine computational and qualitative methods to:   
 - Capture **collective perceptions and behaviors** of people in cities using new sources of data, focusing on **social gaps and power dynamics** in cities     
-- Answer the questions regarding **the social good and bad of digital media and technologies in how people learn, experience, and shape physical space**   
+- Answer the questions regarding **social justice and injustice performed through digital media and technologies in how people learn, experience, and shape physical space**   
 
 I'm currently part of [Friendly Cities Lab](http://friendlycities.gatech.edu/) at Georgia Tech, where I explore social flows and spatial behaviors to promote social health and joy in cities with a marvelous team.   
 
