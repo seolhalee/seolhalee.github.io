@@ -20,16 +20,20 @@ Throughout my works, I pursue to find ways to **_embrace plurality_** of urban e
 #### Master in City and Regional Planning
 Georgia Institute of Technology, _2019-Present_   
 #### BSc in Civil and Environmental Engineering
-Seoul National University, _2014-2019_  
+Seoul National University, _2014-2019_, _Summa Cum Laude_
 Minor in Geography
 
 
 ---
 
 ## Publication 
-**Characteristics of Individuals with Global, Local or Glocal Connectivity Patterns** (Abstract Submitted)  
+**Real-time, interactive website for US-county-level COVID-19 event risk assessment**
+Chande, A., <span style="color:#3d2478">Lee, S.</span>, Harris, M., Nguyen, Q., Beckett, S., Hilley, T., Andris, C., Weitz, J.
+[Nature Human Behavior, 2020](https://www.nature.com/articles/s41562-020-01000-9.epdf?sharing_token=N76iQiJi4MMfZlgL5CzCmtRgN0jAjWel9jnR3ZoTv0MxoMi5KsUayERBHA5eSMONUMN2Q6hJuJwlPGsZt-vBiiTQs7sU1kIpVKm93HyoihgBoBkEvityJyAIQvURfffqrG5TWZSQjM5tYqbOJq9hlmo1Qp5wJ1QsxhnVMRp60AU%3D)
+
+**Characteristics of Individuals with Global, Local or Glocal Connectivity Patterns** 
 Liang, X., <span style="color:#3d2478">Lee, S.</span>, Andris, C., Chen, H., and De La Pena, B.  
-67th Annual North American Meetings of the Regional Science Association International, November, 2020    
+North American Meetings of the Regional Science Association International, November, 2020    
 
 **Inferring the character of urban commercial areas from age-biased online search results: how place recommendation data can reveal dynamic seoul neighborhoods**  
 Lee, D., <span style="color:#3d2478">Lee, S.</span>    
