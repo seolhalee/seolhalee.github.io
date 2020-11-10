@@ -20,7 +20,7 @@ Throughout my works, I pursue to find ways to **_embrace plurality_** of urban e
 #### Master in City and Regional Planning
 Georgia Institute of Technology, _2019-Present_   
 #### BSc in Civil and Environmental Engineering
-Seoul National University, _2014-2019_, _Summa Cum Laude_
+Seoul National University, _2014-2019_, _Summa Cum Laude_  
 Minor in Geography
 
 
