@@ -4,10 +4,10 @@
 > Places are not the fixed truth of built environment, but socially constructed through direct and indirect experiences and knowledge earned both in physcial and digital spaces.  
 <p><br></p>
 
-### Places of Mine, Yours, and Theirs: Comparing the Diverging Images/Functions of Places on Social Media and on Site
+### What Politics Can Social Media Play in Placemaking: A Case Study of an Anti-redevelopment Movement in Euljiro Street in Seoul
 
-_Independent Study, Working Paper, 2019-2020_  
-<p>Social media is growing its impact on all parts of our society. Then how about the places we live in? In this study, I used social media text data to infer the perceived functionality and identity of a place with both physical and social changes going on. Then I compared the answers to the physical ground-truth and the answers from on-site actors(tenants, activists). The area called ‘Eulji-ro’ is where a crafts industry cluster once prospered but now is rapidly transforming into art and food destinations. In the meantime, the craftsmen are protesting against a massive redevelopment plan of the area approved recently by the city government. The result showed 1) the dominant function of the area on social media is a food destination, rather than manufacturing and sales, 2) there are three different levels of attachment(engagement) found, with a diverging opinion on what to preserve and to change in the area.</p>
+_Master's thesis, Working Paper, 2019-2021_  
+<p>In this study, I examine the use and impact of social media in an anti-redevelopment movement ongoing in an old manufacturing district called ‘Euljiro’ in Seoul, South Korea. </p>
 <div class="img-container">
   <img id = "img1" src="/images/euljirocapture.PNG" width="70%">
 </div> 
