@@ -7,7 +7,7 @@
 ### What Politics Can Social Media Play in Placemaking: A Case Study of an Anti-redevelopment Movement in Euljiro Street in Seoul
 
 _Master's thesis, Working Paper, 2019-2021_  
-<p>In this study, I examine the use and impact of social media in an anti-redevelopment movement ongoing in an old manufacturing district called ‘Euljiro’ in Seoul, South Korea. </p>
+<p>In this study, I examine the use and impact of social media in an anti-redevelopment movement ongoing in an old manufacturing district called ‘Euljiro’ in Seoul, South Korea. I used a mixed approach, combining in-depth interviews and social media text analysis to capture the different perceptions posed on the area by different groups and to figure out the impact of social media activities on community building and public discourse.</p>
 <div class="img-container">
   <img id = "img1" src="/images/euljirocapture.PNG" width="70%">
 </div> 
