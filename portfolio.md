@@ -73,7 +73,7 @@ _Publication: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Chara
 
 ---
 ## Civic Paticipation and Media 
-> How can we establish the authorship and designership that people have in their living places? 
+> How can we enhance people' capacity as an author and a designer of their living places?
 
 <p><br></p>
 
