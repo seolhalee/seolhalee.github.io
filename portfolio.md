@@ -1,7 +1,7 @@
 ## Portfolio
 ---
 ## Socially Constructed Space: Place Dynamics and Digital Media 
-> Places are not the fixed truth of built environment, but socially constructed through direct and indirect experiences and knowledge earned both in physcial and digital spaces.  
+> Places are socially constructed, in relation of experiences, knowledge, and interactions in physical and digital spaces.  
 <p><br></p>
 
 ### What Politics Can Social Media Play in Placemaking: A Case Study of an Anti-redevelopment Movement in Euljiro Street in Seoul
@@ -40,7 +40,7 @@ _Publication: Lee, D., Lee, S. Inferring the character of urban commercial areas
 
 ---
 ## Spatially Embedded Social Network and Interactions 
-> Social networks are spatially embedded, and interact with our lives in physical spaces. 
+> Social networks are embedded in urban space, mediating our lives in cities.  
 
 <p><br></p>
 
@@ -73,7 +73,7 @@ _Publication: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Chara
 
 ---
 ## Civic Paticipation and Media 
-> How can we enhance people' capacity as an author and a designer of their living places?
+> How can we enhance the identity and capacity of communities as designers of their living places?
 
 <p><br></p>
 
@@ -105,7 +105,7 @@ _Participatory Workshop, Strategic Design, 2018_
 
 ---
 ## Human Experience Design Research 
-> All designs become alive once they meet people and gives unique experiences to each of them. I studied and assessed spaces through the lense of human activity and perception. 
+> Design becomes alive when it meets people, bringing unique experiences. I studied and assessed urban space through the lens of human activity and perception. 
 <p><br></p>
 
 ### Augmenting the Visaul Experience on GPS Tracks using ML Techniques 
