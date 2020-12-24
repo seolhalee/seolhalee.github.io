@@ -27,7 +27,7 @@ _Master's thesis, Working Paper, 2019-2021_
 
 ### Inferring the Commercial Landscape using Age-biased Online Search Results
 _Conference Paper, In UbiComp 2019 Adjunct Proceedings_  
-<p>What does the different result of age-biased place recommendation tell us about a place? Can it tell us more than simply that your peer group has a disparate taste from younger or older age groups?; for instance, what if commercial places present options appealing only to particular age groups? In this study, we analyzed the consumer-age-specific patterns of restaurant preferences in commercial areas of Seoul, through the mining of place recommendation results from the Naver Place online service. Our results suggest that both high-traffic and rapidly changing commercial areas present diverse options appealing to all age groups and that this diversity is primarily driven by the tastes of younger age groups.</p>   
+<p>What does the different result of age-biased place recommendation tell us about a place? How does the restaurant preference of different age groups correlate with actual commercial activities at a place? In this study, we analyzed the consumer-age-specific patterns of restaurant preferences in commercial areas of Seoul, through the mining of place recommendation results from the Naver Place online service. Our results suggest that both high-traffic and rapidly changing commercial areas present diverse options appealing to all age groups and that this diversity is primarily driven by the tastes of younger age groups.</p>   
 <div class="img-container">
   <img src="/images/naver2.jpg" width="35%" />
   <img src="/images/TDITHIcapture.PNG" width="28%" /> 
@@ -79,8 +79,7 @@ _Presentation: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Char
 
 ### Returning Gendered Playground to All: Participatory Design for Inclusive Playful Places 
 _Pariticipatory Design Workshop, Yangji.Co.Ltd, 2018_  
-<p> Through discussion and citizen-led tour , 
-During the urban regeneration project in Cheon-an, South Korea, we run an open studio, where residents can walk in and freely participate in the urban design process with architects, planners, and designers. Conversation with elderly women revealed that the neighborhood didn't have a place for elderly women to PLAY. With additional field investigations with the residents, we found that most of the public spaces in the neighborhood are highly masculinized: the huge shade under the bridge was used as a gambling yard for old men, and the enclosed green spaces were rarely used by women because they felt unsafe and even threatened in those spaces. These findings led us to aim to return the gendered, threatening playground to all. In the final pesentation, we suggested to redesign the public spaces with three design principles: to make the places visually open, connected as a network accessible to all, and to place more inclusive and engaging programs.</p>  
+<p>During the urban regeneration project in Cheon-an, South Korea, we run an open studio, where residents can walk in and freely participate in the urban design process with architects, planners, and designers. Conversation with elderly women revealed that the neighborhood didn't have a place for elderly women to PLAY. With additional field investigations with the residents, we found that most of the public spaces in the neighborhood are highly masculinized: the huge shade under the bridge was used as a gambling yard for old men, and the enclosed green spaces were rarely used by women because they felt unsafe and even threatened in those spaces. These findings led us to aim to return the gendered, threatening playground to all. In the final pesentation, we suggested to redesign the public spaces with three design principles: to make the places visually open, connected as a network accessible to all, and to place more inclusive and engaging programs.</p>  
 <div class="img-container">
   <img src="/images/namsan_workshop3_color.jpg" width="50%">
 </div>
@@ -122,5 +121,5 @@ _Course Project, Urban Ecological Design, 2019_
 _Undergraduate Thesis, Seoul National University, 2018_
 
 <div class="img-container">
-  <img src="/images/shinrim1.PNG" width="70%"/>
+  <img src="/images/shinrim1.PNG" width="80%"/>
 </div>
