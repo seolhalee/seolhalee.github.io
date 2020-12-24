@@ -65,7 +65,7 @@ Selected Featured Articles:
 _Conference Paper, NARSC 2020_  
 <p>All individuals connect to a set of places with which they interact through travel, migration, location of social ties, telecommunication, and more abstract thoughts and proclivities. Collectively, these are known as social flows and form a start-like pattern that is spatially embedded. In this study we classify the connection sets (e.g.travel, migration, relationships, etc) reported from a survey into distinct typologies and investigated their correlation with individual and behavioral factors regarding social, spatial extensibility.</p> 
 <div class="img-container">
-  <img src="/images/ncs1_small.jpg" width="70%">
+  <img src="/images/narsc.png" width="70%">
 </div>
 _Presentation: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Characteristics of Individuals with Global, Local or Glocal Connectivity Patterns, NARSC, 2020_  
 
