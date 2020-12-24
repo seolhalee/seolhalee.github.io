@@ -86,7 +86,7 @@ _Pariticipatory Design Workshop, Yangji.Co.Ltd, 2018_
 <p><br></p>
 
 ### Mobile App for Commutnity Engagement
-_Mobile App Prototyping and Pilot Implementation, 2018_  
+_Mobile App Prototyping and Pilot Implementation, Yangji.Co.Ltd, 2018_  
 <p>Namsan-Maeul Talk is a mobile app to help people understand convoluted urban plans and enable them to engage in the process ubiquitously. In a series of participatory workshops, many residents told us that they had a hard time understanding the plans and announcements which hindered them to discuss the issues with others. To lower these barriers and help citizens to be better aware of the process of plan implementation, this app provides residents a real-time progress dashboard and proactive notifications of any actions or changes pertaining to the plans. It also provides a platform for organizing neighborhood events. The app was introduced as a pilot program and tested on-site during the workshop period.</p>
 <div class="img-container">
   <img src="/images/talk1.PNG" width="25%" />
@@ -95,7 +95,7 @@ _Mobile App Prototyping and Pilot Implementation, 2018_
 <p><br></p>
 
 ### Indigenous Eco(-nomic) System: Community Mapping and Networking of Local Assets for Economic Empowerment
-_Participatory Workshop, Strategic Design, 2017_  
+_Participatory Workshop, Strategic Design, Yangji.Co.Ltd, 2017_  
 <p>What would be the way for a shrinking community in a rural island to reinvigorate their tourism economy while they prevent an enormous foreign capital poured in? In the participatory workshop held on an island currently under threat of massive development, we recovered overlooked components of an indigenous ecosystem and created a network of local assets that helps to create sustainable profit-making programs. The result inspired a community-led economic development project which was implemented following the workshop.</p>
 <div class="img-container">
   <img src="/images/shinbi3.jpg" width="40%" />
