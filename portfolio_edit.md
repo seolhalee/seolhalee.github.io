@@ -7,20 +7,39 @@
 ### What Politics Can Social Media Play in Placemaking: A Case Study of an Anti-redevelopment Movement in Euljiro Street in Seoul
 
 _Master's thesis, Working Paper, 2019-2021_  
-<div class="img-container">
-  <img id = "img1" src="/images/euljirocapture.PNG" width="100%">
-</div> 
-<!-- The Modal -->
-<div id="myModal" class="modal">
+<!-- Slideshow container -->
+<div class="slideshow-container">
 
-  <!-- The Close Button -->
-  <!-- <span class="close">&times;</span>-->
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 3</div>
+    <img src="/images/euljirocapture.PNG" style="width:100%">
+    <div class="text">Caption Text</div>
+  </div>
 
-  <!-- Modal Content (The Image) -->
-  <img class="modal-content" id="img1">
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 3</div>
+    <img src="/images/euljirocapture.PNG" style="width:100%">
+    <div class="text">Caption Two</div>
+  </div>
 
-  <!-- Modal Caption (Image Text) -->
-  <div id="caption"></div>
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 3</div>
+    <img src="img3.jpg" style="width:100%">
+    <div class="text">Caption Three</div>
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
 </div>
 <p><br></p>
 
