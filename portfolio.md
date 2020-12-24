@@ -27,7 +27,7 @@ _Master's thesis, Working Paper, 2019-2021_
 
 ### Inferring the Commercial Landscape using Age-biased Online Search Results
 _Conference Paper, In UbiComp 2019 Adjunct Proceedings_  
-<p>What does the different result of age-biased place recommendation tell us about a place? Can it tell us more than simply that your peer group has a disparate taste from younger or older age groups?; for instance, if commercial places present options appealing only to certain age groups? In this study, we analyzed the consumer-age-specific patterns of restaurant preferences in commercial areas of Seoul, through the mining of place recommendation results from the Naver Place online service. Our results suggest that both high-traffic and rapidly changing commercial areas present diverse options appealing to all age groups and that this diversity is primarily driven by the tastes of younger age groups.</p>   
+<p>What does the different result of age-biased place recommendation tell us about a place? Can it tell us more than simply that your peer group has a disparate taste from younger or older age groups?; for instance, what if commercial places present options appealing only to particular age groups? In this study, we analyzed the consumer-age-specific patterns of restaurant preferences in commercial areas of Seoul, through the mining of place recommendation results from the Naver Place online service. Our results suggest that both high-traffic and rapidly changing commercial areas present diverse options appealing to all age groups and that this diversity is primarily driven by the tastes of younger age groups.</p>   
 <div class="img-container">
   <img src="/images/naver2.jpg" width="35%" />
   <img src="/images/TDITHIcapture.PNG" width="28%" /> 
@@ -67,7 +67,7 @@ _Conference Paper, NARSC 2020_
 <div class="img-container">
   <img src="/images/ncs1_small.jpg" width="70%">
 </div>
-_Publication: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Characteristics of Individuals with Global, Local or Glocal Connectivity Patterns, NARSC, 2020_  
+_Presentation: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Characteristics of Individuals with Global, Local or Glocal Connectivity Patterns, NARSC, 2020_  
 
 <p><br></p>
 
@@ -78,8 +78,9 @@ _Publication: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Chara
 <p><br></p>
 
 ### Returning Gendered Playground to All: Participatory Design for Inclusive Playful Places 
-_Pariticipatory Design Workshop, 2018_  
-<p>During the participatory workshop for an urban regeneration project in Cheon-an, South Korea, the workshop studio, which was more like a salon that anyone can walk in and have a chat, was visited by many elderly women. The most revealing part of their stories was the neighborhood didn't have a place for elderly women to PLAY. With additional field investigations with the residents, we found that most of the public spaces in the neighborhood are highly masculinized: the huge shade under the bridge was used as a gambling yard for old men, and the enclosed green spaces were rarely used by women because they felt unsafe and even threatened in those spaces. These findings led us to aim to return the gendered, threatening playground to all. In the final pesentation, we suggested to redesign the public spaces with three design principles: to make the places visually open, connected as a network accessible to all, and to place more inclusive and engaging programs.</p>  
+_Pariticipatory Design Workshop, Yangji.Co.Ltd, 2018_  
+<p> Through discussion and citizen-led tour , 
+During the urban regeneration project in Cheon-an, South Korea, we run an open studio, where residents can walk in and freely participate in the urban design process with architects, planners, and designers. Conversation with elderly women revealed that the neighborhood didn't have a place for elderly women to PLAY. With additional field investigations with the residents, we found that most of the public spaces in the neighborhood are highly masculinized: the huge shade under the bridge was used as a gambling yard for old men, and the enclosed green spaces were rarely used by women because they felt unsafe and even threatened in those spaces. These findings led us to aim to return the gendered, threatening playground to all. In the final pesentation, we suggested to redesign the public spaces with three design principles: to make the places visually open, connected as a network accessible to all, and to place more inclusive and engaging programs.</p>  
 <div class="img-container">
   <img src="/images/namsan_workshop3_color.jpg" width="50%">
 </div>
@@ -87,7 +88,7 @@ _Pariticipatory Design Workshop, 2018_
 
 ### Mobile App for Commutnity Engagement
 _Mobile App Prototyping and Pilot Implementation, 2018_  
-<p>Namsan-Maeul Talk is a mobile app to help people understand convoluted urban plans and enable them to engage in the process ubiquitously. In a series of participatory workshops, many residents, mostly elderly women, shared their stories of having hard time understanding the plans and announcements which made them even harder to ask help from their friends and younger children. To lower these barriers and help citizens to be better aware of plan implementations, we designed this app that provides residents a real-time progress dashboard and proactive notifications of any actions or changes pertaining to the plans as well as neighborhood events proactively. The app was introduced as a pilot program and tested on-site during the workshop period.</p>
+<p>Namsan-Maeul Talk is a mobile app to help people understand convoluted urban plans and enable them to engage in the process ubiquitously. In a series of participatory workshops, many residents told us that they had a hard time understanding the plans and announcements which hindered them to discuss the issues with others. To lower these barriers and help citizens to be better aware of the process of plan implementation, this app provides residents a real-time progress dashboard and proactive notifications of any actions or changes pertaining to the plans. It also provides a platform for organizing neighborhood events. The app was introduced as a pilot program and tested on-site during the workshop period.</p>
 <div class="img-container">
   <img src="/images/talk1.PNG" width="25%" />
   <img src="/images/talk2.PNG" width="30%" />
@@ -95,8 +96,8 @@ _Mobile App Prototyping and Pilot Implementation, 2018_
 <p><br></p>
 
 ### Indigenous Eco(-nomic) System: Community Mapping and Networking of Local Assets for Economic Empowerment
-_Participatory Workshop, Strategic Design, 2018_  
-<p>What would be the way for a shrinking community in an rural island to reinvigorate their tourism economy while preventing an enormous foreign capital poured in? In the participatory workshop held in an island currently under threat of massive development, we recovered overlooked components of indigenous ecosystem and created a network of local assets that helps to create sustainable profit-making programs. The programs inspired by our result were implemented in the followed community-led economic development project. </p>
+_Participatory Workshop, Strategic Design, 2017_  
+<p>What would be the way for a shrinking community in a rural island to reinvigorate their tourism economy while they prevent an enormous foreign capital poured in? In the participatory workshop held on an island currently under threat of massive development, we recovered overlooked components of an indigenous ecosystem and created a network of local assets that helps to create sustainable profit-making programs. The result inspired a community-led economic development project which was implemented following the workshop.</p>
 <div class="img-container">
   <img src="/images/shinbi3.jpg" width="40%" />
   <img src="/images/shinbi1.PNG" width="25%" />
@@ -110,7 +111,7 @@ _Participatory Workshop, Strategic Design, 2018_
 
 ### Augmenting the Visaul Experience on GPS Tracks using ML Techniques 
 _Course Project, Urban Ecological Design, 2019_    
-<p>GPS tracking gives us granular spatio-temporal information about how people move and do things in cities, yet the experiential context we can earn from the data is highly limited. In this class project,  I adopted machine learning algorithms (classification and image segmentation) to infer two contextual information of daily movements from GPS track data: 1) trip purpose and mode, 2) visual component achieved along a trip. Trips for a day of 860 individuals in Tokyo, Japan were processed and the result answers the following questions: Where do people pass by for their daily trips? How would be the scenes they see along with their trips? Is the sequence of scenes different when you take a trip for different purposes? like when you commute, do some daily tasks, or go to hang out?</p>
+<p>GPS tracking gives us granular spatio-temporal information about how people move and do things in cities, yet the experiential context we can earn from the data is highly limited. In this class project,  I adopted machine learning algorithms (classification and image segmentation) to infer two contextual information of daily movements from GPS track data: 1) trip purpose and mode, 2) visual component achieved along a trip. Trips for a day of 860 individuals in Tokyo, Japan were processed and the result answers the following questions: Where do people pass by for their daily trips? How would be the scenes they see along with their trips? Is it different when you take a trip for different purposes? like when you commute, do some daily tasks, or go to hang out? </p>
 <div class="img-container">
   <img src="/images/ued3.PNG" width="60%" />
   <img src="/images/ueddemo.gif" width="25%" />
