@@ -25,15 +25,14 @@ _Master's thesis, Working Paper, 2019-2021_
 <p><br></p>
 
 ### Inferring the Commercial Landscape using Age-biased Online Search Results
-_Conference Paper, In UbiComp 2019 Adjunct Proceedings_  
-<p>What does the different result of age-biased place recommendation tell us about a place? Can it tell us more than simply that your peer group has a disparate taste from younger or older age groups?; for instance, what if commercial places present options appealing only to particular age groups? In this study, we analyzed the consumer-age-specific patterns of restaurant preferences in commercial areas of Seoul, through the mining of place recommendation results from the Naver Place online service. Our results suggest that both high-traffic and rapidly changing commercial areas present diverse options appealing to all age groups and that this diversity is primarily driven by the tastes of younger age groups.</p>   
+_Conference Paper, In UbiComp 2019 Adjunct Proceedings_    
 <div class="img-container">
-  <img src="/images/naver2.jpg" width="50%" />
-  <img src="/images/TDITHIcapture.PNG" width="50%" /> 
-  <!--<img src="/images/naver3.PNG" width="28%" />-->
+  <!--<img src="/images/naver2.jpg" width="50%" />-->
+  <!--<img src="/images/TDITHIcapture.PNG" width="50%" /> -->
+  <img src="/images/naver3.PNG" width="100%" />
 </div>
 
-_Publication: Lee, D., Lee, S. Inferring the character of urban commercial areas from age-biased online search results: how place recommendation data can reveal dynamic seoul neighborhoods, In Ubicomp 2019 Adjunct Proceedings_  
+<!--_Publication: Lee, D., Lee, S. Inferring the character of urban commercial areas from age-biased online search results: how place recommendation data can reveal dynamic seoul neighborhoods, In Ubicomp 2019 Adjunct Proceedings_  -->
 
 <p><br></p>
 
@@ -54,7 +53,7 @@ _Conference Paper, NARSC 2020_
 <div class="img-container">
   <img src="/images/ncs1_small.jpg" width="100%">
 </div>
-_Presentation: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Characteristics of Individuals with Global, Local or Glocal Connectivity Patterns, NARSC, 2020_  
+<!--_Presentation: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Characteristics of Individuals with Global, Local or Glocal Connectivity Patterns, NARSC, 2020_-->  
 
 <p><br></p>
 
@@ -74,8 +73,8 @@ _Pariticipatory Design Workshop, Yangji.Co.Ltd, 2018_
 ### Mobile App for Commutnity Engagement
 _Mobile App Prototyping and Pilot Implementation, 2018_  
 <div class="img-container">
-  <img src="/images/talk1.PNG" width="40%" />
-  <img src="/images/talk2.PNG" width="60%" />
+  <img src="/images/talk1.PNG" width="30%" />
+  <img src="/images/talk2.PNG" width="50%" />
 </div>
 <p><br></p>
 
