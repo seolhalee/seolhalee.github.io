@@ -77,6 +77,16 @@ _Presentation: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Char
 
 <p><br></p>
 
+### Digital Cultural Probing Tool: Collecting Lived Experiences of Senior Immigrant Communities
+_Course Project, ICT and Global Development (Technology & Equity), Georgia Tech, 2020_  
+<p>Immigrant populations, especially those of senior age, encounter intersectional barriers to community engagement in urban planning. Eurocentric city planning discourages them to reflect on their lived experiences in respective home countries. The language and cultural barrier hinder authentic communication between authorities and immigrants. To overcome these barriers, we developed a digital cultural probing tool that collects lived experiences, memory, narrative, and artifacts. We aimed to support city planners with this tool that enables learning about ways of planning outside of conventional Western methods.</p>  
+<div class="img-container">
+  <img src="/images/probing1.png" width="20%">
+  <img src="/images/probing2.png" width="20%">
+  <img src="/images/probing3.png" width="50%">
+</div>
+<p><br></p>
+
 ### Returning Gendered Playground to All: Participatory Design for Inclusive Playful Places 
 _Pariticipatory Design Workshop, Yangji.Co.Ltd, 2018_  
 <p>During the urban regeneration project in Cheon-an, South Korea, we run an open studio, where residents can walk in and freely participate in the urban design process with architects, planners, and designers. Conversation with elderly women revealed that the neighborhood didn't have a place for elderly women to PLAY. With additional field investigations with the residents, we found that most of the public spaces in the neighborhood are highly masculinized: the huge shade under the bridge was used as a gambling yard for old men, and the enclosed green spaces were rarely used by women because they felt unsafe and even threatened in those spaces. These findings led us to aim to return the gendered, threatening playground to all. In the final pesentation, we suggested to redesign the public spaces with three design principles: to make the places visually open, connected as a network accessible to all, and to place more inclusive and engaging programs.</p>  
