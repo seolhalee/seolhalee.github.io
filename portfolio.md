@@ -27,7 +27,7 @@ _Master's thesis, Working Paper, 2019-2021_
 
 ### Inferring the Commercial Landscape using Age-biased Online Search Results
 _Conference Paper, In UbiComp 2019 Adjunct Proceedings_  
-<p>What does the different result of age-biased place recommendation tell us about a place? How does the restaurant preference of different age groups correlate with actual commercial activities at a place? In this study, we analyzed the consumer-age-specific patterns of restaurant preferences in commercial areas of Seoul, through the mining of place recommendation results from the Naver Place online service. Our results suggest that both high-traffic and rapidly changing commercial areas present diverse options appealing to all age groups and that this diversity is primarily driven by the tastes of younger age groups.<a href = "https://doi.org/10.1145/3341162.3349322">Read the Paper</a></p>   
+<p>What does the different result of age-biased place recommendation tell us about a place? How does the restaurant preference of different age groups correlate with actual commercial activities at a place? In this study, we analyzed the consumer-age-specific patterns of restaurant preferences in commercial areas of Seoul, through the mining of place recommendation results from the Naver Place online service. Our results suggest that both high-traffic and rapidly changing commercial areas present diverse options appealing to all age groups and that this diversity is primarily driven by the tastes of younger age groups. <a href = "https://doi.org/10.1145/3341162.3349322">Read the paper</a></p>   
 <div class="img-container">
   <img src="/images/naver2.jpg" width="35%" />
   <img src="/images/TDITHIcapture.PNG" width="28%" /> 
