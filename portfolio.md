@@ -63,7 +63,7 @@ Selected Featured Articles:
 
 ### Who Has Local, Global, Glocal Set of Connections?: Classifying Individual Spatial and Social Networks
 _Conference Paper, NARSC 2020_  
-<p>All individuals connect to a set of places with which they interact through travel, migration, location of social ties, telecommunication, and more abstract thoughts and proclivities. Collectively, these are known as social flows and form a start-like pattern that is spatially embedded. In this study we classify the connection sets (e.g.travel, migration, relationships, etc) reported from a survey into distinct typologies and investigated their correlation with individual and behavioral factors regarding social, spatial extensibility.</p> 
+<p>All individuals connect to a set of places with which they interact through travel, migration, location of social ties, telecommunication, and more abstract thoughts and proclivities. Collectively, these are known as social flows and form a star-like pattern that is spatially embedded. In this study we classify the connection sets (e.g.travel, migration, relationships, etc) reported from a survey into distinct typologies and investigated their correlation with individual and behavioral factors regarding social, spatial extensibility.</p> 
 <div class="img-container">
   <img src="/images/narsc.png" width="70%">
 </div>
