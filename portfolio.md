@@ -27,7 +27,7 @@ _Master's thesis, Working Paper, 2019-2021_
 
 ### Inferring the Commercial Landscape using Age-biased Online Search Results
 _Conference Paper, In UbiComp 2019 Adjunct Proceedings_  
-<p>What does the different result of age-biased place recommendation tell us about a place? How does the restaurant preference of different age groups correlate with actual commercial activities at a place? In this study, we analyzed the consumer-age-specific patterns of restaurant preferences in commercial areas of Seoul, through the mining of place recommendation results from the Naver Place online service. Our results suggest that both high-traffic and rapidly changing commercial areas present diverse options appealing to all age groups and that this diversity is primarily driven by the tastes of younger age groups.</p>   
+<p>What does the different result of age-biased place recommendation tell us about a place? How does the restaurant preference of different age groups correlate with actual commercial activities at a place? In this study, we analyzed the consumer-age-specific patterns of restaurant preferences in commercial areas of Seoul, through the mining of place recommendation results from the Naver Place online service. Our results suggest that both high-traffic and rapidly changing commercial areas present diverse options appealing to all age groups and that this diversity is primarily driven by the tastes of younger age groups.<a href = "https://doi.org/10.1145/3341162.3349322">Read the Paper</a></p>   
 <div class="img-container">
   <img src="/images/naver2.jpg" width="35%" />
   <img src="/images/TDITHIcapture.PNG" width="28%" /> 
@@ -63,7 +63,7 @@ Selected Featured Articles:
 
 ### Who Has Local, Global, Glocal Set of Connections?: Classifying Individual Spatial and Social Networks
 _Conference Paper, NARSC 2020_  
-<p>All individuals connect to a set of places with which they interact through travel, migration, location of social ties, telecommunication, and more abstract thoughts and proclivities. Collectively, these are known as social flows and form a star-like pattern that is spatially embedded. In this study we classify the connection sets (e.g.travel, migration, relationships, etc) reported from a survey into distinct typologies and investigated their correlation with individual and behavioral factors regarding social, spatial extensibility.</p> 
+<p>All individuals connect to a set of places with which they interact through travel, migration, location of social ties, telecommunication, and more abstract thoughts and proclivities. Collectively, these are known as social flows and form a star-like pattern that is spatially embedded. In this study we classify the connection sets (e.g.travel, migration, relationships, etc) reported from a survey into distinct typologies and investigated their correlation with individual and behavioral factors regarding social, spatial extensibility. <a href = "/pdf/NARSC2020Abstract.pdf">Read the abstract</a></p> 
 <div class="img-container">
   <img src="/images/narsc.png" width="70%">
 </div>
@@ -79,7 +79,7 @@ _Presentation: Liang, X., Lee, S., Andris, C., Chen, H., and De La Pena, B. Char
 
 ### Digital Cultural Probing Tool: Collecting Lived Experiences of Senior Immigrant Communities
 _Course Project, ICT and Global Development (Technology & Equity), Georgia Tech, 2020_  
-<p>Immigrant populations, especially those of senior age, encounter intersectional barriers to community engagement in urban planning. Eurocentric city planning discourages them to reflect on their lived experiences in respective home countries. The language and cultural barrier hinder authentic communication between authorities and immigrants. To overcome these barriers, we developed a digital cultural probing tool that collects lived experiences, memory, narrative, and artifacts. We aimed to support city planners with this tool that enables learning about ways of planning outside of conventional Western methods.</p>  
+<p>Immigrant populations, especially those of senior age, encounter intersectional barriers to community engagement in urban planning. Eurocentric city planning discourages them to reflect on their lived experiences in respective home countries. The language and cultural barrier hinder authentic communication between authorities and immigrants. To overcome these barriers, we developed a digital cultural probing tool that collects lived experiences, memory, narrative, and artifacts. We aimed to support city planners with this tool that enables learning about ways of planning outside of conventional Western methods. <a href = "pdf/T&E_Final_Report.pdf">Read our final report.</a></p>  
 <div class="img-container">
   <img src="/images/probing1.png" width="20%">
   <img src="/images/probing2.png" width="20%">
