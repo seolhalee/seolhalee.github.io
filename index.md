@@ -1,17 +1,17 @@
 ## Bio
 
-I'm a master's student in [City and Regional Planning at Georgia Institute of Technology](https://planning.gatech.edu/).   
-At the nexus of human, technology, and physical space, I combine computational and qualitative methods to:   
-- Capture **collective perceptions and behaviors** of people in cities using new sources of data, focusing on **social gaps and power dynamics** in cities     
-- Answer the questions regarding **social justice and injustice performed through digital media and technologies in how people learn, experience, and shape physical space**   
+Hi, I'm a master's student in [City and Regional Planning at Georgia Institute of Technology](https://planning.gatech.edu/).   
 
-I'm currently part of [Friendly Cities Lab](http://friendlycities.gatech.edu/) at Georgia Tech, where I explore social flows and spatial behaviors to promote social health and joy in cities with a marvelous team.   
+I do research in **urban planning, data science, and information systems** in cities. All my works question how to leverage the capacity of vast data and online connectivity to make collaborative cities and healthy communities. 
 
-Before I joined the current program, I studied Civil & Environmental Engineering at Seoul National University in South Korea, with a minor in Geography. I focused on **recovering overlooked dimensions of experience in built environment** using both quantitative and qualitative methods.   
+Some topics I have addressed in my works are: 
+spatial patterns of social networks; urban communities, civic life, and digital media; social diversity in commercial places in Korean and American cities.
 
-While pursuing academic enthusiasm, I worked in practice as a strategic designer/GIS analyst in an urban planning & design studio for 2 years, designing and implementing a variety of **participatory planning/design** projects    
+Before I joined the current program, I studied civil engineering and geography at Seoul National University in South Korea, where I first became interested in the power of data that can either support or suppress people in cities. 
 
-Throughout my works, I pursue to find ways to **_embrace plurality_** of urban experiences in planning/design practices for better **_solidarity_** in cities.   
+I have also practiced as a strategic designer/data scientist in urban planning organizations in Korea and the US. 
+
+My work often happens in front of computer screens,  but the most exciting part of my works always happens while I'm interacting with real people on sites.  
 
 ---
 
