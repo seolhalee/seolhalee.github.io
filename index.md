@@ -5,9 +5,9 @@ Hi, I'm a master's student in [City and Regional Planning at Georgia Institute o
 I do research in **urban planning, data science, and information systems** in cities. All my works question how to leverage the capacity of vast data and online connectivity to make collaborative cities and healthy communities. 
 
 Some topics I have addressed in my works are: 
-- spatial patterns of social networks; 
-- urban communities, civic life, and digital media; 
-- social diversity in commercial places in Korean and American cities.
+- Spatial patterns of social networks; 
+- Urban communities, civic life, and digital media; 
+- Social diversity in commercial places in Korean and American cities.
 
 Before I joined the current program, I studied civil engineering and geography at Seoul National University in South Korea, where I first became interested in the power of data that can either support or suppress people in cities. 
 
