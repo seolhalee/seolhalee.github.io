@@ -1,6 +1,6 @@
 ## Bio
 
-Hi, I'm a first year PhD student in [Informatics at University California, Irvine](https://www.informatics.uci.edu/).   
+Hi, I'm a first-year PhD student in [Informatics at University California, Irvine](https://www.informatics.uci.edu/).   
 
 I do research in **data and information systems in urban planning & design** in cities. My works question how we deal with messy data in urban governance, where both big data analytics and community mapping happen at the same time. By answering the questions, I pursue to find ways to make the practices democratic and inclusive.
 
