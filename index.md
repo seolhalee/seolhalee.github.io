@@ -1,26 +1,29 @@
 ## Bio
 
-Hi, I'm a master's student in [City and Regional Planning at Georgia Institute of Technology](https://planning.gatech.edu/).   
+Hi, I'm a first year PhD student in [Informatics at University California, Irvine](https://www.informatics.uci.edu/).   
 
-I do research in **urban planning, data science, and information systems** in cities. All my works question how to leverage the capacity of vast data and online connectivity to make collaborative cities and healthy communities. 
+I do research in **data and information systems in urban planning & design** in cities. My works question how we deal with messy data in urban governance, where both big data analytics and community mapping happen at the same time. By answering the questions, I pursue to find ways to make the practices democratic and inclusive.
+
 
 Some topics I have addressed in my works are: 
+- Urban communities, activism, and digital media; 
 - Spatial patterns of social networks; 
-- Urban communities, civic life, and digital media; 
 - Social diversity in commercial places in Korean and American cities.
 
-Before I joined the current program, I studied civil engineering and geography at Seoul National University in South Korea, where I first became interested in the power of data that can either support or suppress people in cities. 
+Before I joined the current program, I studied urban planning at Georgia Tech, civil engineering and geography at Seoul National University in South Korea. There I found my interests in the power of data that can either support or suppress people in cities. 
 
-I have also practiced as a strategic designer/data analyst in urban planning organizations in Korea and the US. 
+I have also practiced as a strategic designer/data analyst in urban planning & design organizations in South Korea and the US. 
 
-My work often happens in front of computer screens,  but the most exciting part of my works always happens while I'm interacting with real people on sites.  
+My work often happens in front of computer screens,  but the most exciting part of my works happens while I'm interacting with real people on streets.  
 
 ---
 
 ## Education
 
+#### Informatics PhD
+University of California, Irvine, _2021-Present_
 #### Master in City and Regional Planning
-Georgia Institute of Technology, _2019-Present_   
+Georgia Institute of Technology, _2019-2021_   
 #### BSc in Civil and Environmental Engineering
 Seoul National University, _2014-2019_, _Summa Cum Laude_  
 Minor in Geography
