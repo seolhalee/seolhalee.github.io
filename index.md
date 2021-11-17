@@ -10,7 +10,7 @@ Before I joined the current program, I studied urban planning at Georgia Tech, f
 
 I have also practiced as a strategic designer/data analyst in urban planning & design organizations in South Korea and the US. There I found my interest in the power of data that can either support or suppress people in cities. 
 
-These experiences across urban data analytics and participatory planning have invited me to tackle the conflicting values and interests manifested through disparate approaches to data: qualitative and quantitative; objective and subjective: top-down and bottom-up, etc.   
+These experiences across **urban data analytics**and **participatory planning** have invited me to tackle the conflicting values and interests manifested through disparate approaches to data: qualitative and quantitative; objective and subjective: top-down and bottom-up, etc.   
 
 My work often happens in front of computer screens,  but the most exciting part of my works happens while I'm interacting with real people on streets.  
 
@@ -61,10 +61,13 @@ North American Meetings of the Regional Science Association International, Novem
 ---
 
 ## Research Experience
+####  Graduate Researcher, University of California - Irvine  
+[Steckler Center for Responsible, Ethical, and Accessible Technology (CREATE)](https://create.ics.uci.edu/) _2021-Present_   
+> Leading research where I explore how local governments put justice in action through quantification 
 
 ####  Graduate Research Assistant, Georgia Tech  
-[Friendly Cities Lab](http://friendlycities.gatech.edu/) (Lead: Dr. Clio Andris), School of City and Regional Planning _2019-Present_   
-> Conducting computational research on social network and flows in cities and their impact on spatial behaviors  
+[Friendly Cities Lab](http://friendlycities.gatech.edu/) (Lead: Dr. Clio Andris), School of City and Regional Planning _2019-2021_   
+> Conducted computational research on social network and flows in cities and their impact on spatial behaviors  
 
 #### Research Intern, KAIST
 [Maturepolis Lab](https://maturepolis.com/) (Lead: Dr. David Lee), Department of Civil and Environmental Engineering _2018_ 
