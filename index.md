@@ -2,7 +2,7 @@
 
 Hi, I'm a first-year PhD student in [Informatics at University California, Irvine](https://www.informatics.uci.edu/).   
 
-As a urban planner, data analyst, and information designer, I explore **the politics of data and information systems in urban governance** in my research. In the realm of wicked data where big data analytics and community mapping happen at the same time, how do we quantify and represent our lived experiences in city space through data? what kinds of negotiations and compromises happen in the data-driven decision-making processes? 
+In my research, I explore **the politics of data and information systems in urban governance**. In the realm of wicked data where big data analytics and community mapping happen at the same time, how do we quantify and represent our lived experiences in city space through data? what kinds of negotiations and compromises happen in the data-driven decision-making processes? 
 
 Leveraging mixed methods, I pursue ways to make the decision-making processes more _democratic and just_, by **designing information systems** for collaborative sense-making and community-centered data science.
 
