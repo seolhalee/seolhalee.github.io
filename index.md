@@ -4,13 +4,13 @@ Hi, I'm a first-year PhD student in [Informatics at University California, Irvin
 
 As a urban planner, data analyst, and information designer, I explore **the politics of data and information systems in urban governance** in my research. In the realm of wicked data where big data analytics and community mapping happen at the same time, how do we quantify and represent our lived experiences in city space through data? what kinds of negotiations and compromises happen in the data-driven decision-making processes? 
 
-Leveraging mixed methods, I pursue ways to make the decision-making processes more democratic and just, by **designing information systems** for collaborative sense-making and community-centered data science.
+Leveraging mixed methods, I pursue ways to make the decision-making processes more _democratic and just_, by **designing information systems** for collaborative sense-making and community-centered data science.
 
 Before I joined the current program, I studied urban planning at Georgia Tech, focusing on urban data analytics to understand social networks and activities of urban communities. 
 
 I have also practiced as a strategic designer/data analyst in urban planning & design organizations in South Korea and the US. There I found my interest in the power of data that can either support or suppress people in cities. 
 
-These experiences across **urban data analytics**and **participatory planning** have invited me to tackle the conflicting values and interests manifested through disparate approaches to data: qualitative and quantitative; objective and subjective: top-down and bottom-up, etc.   
+These experiences across **urban data analytics** and **participatory planning** have invited me to tackle the conflicting values and interests manifested through disparate approaches to data: qualitative and quantitative; objective and subjective: top-down and bottom-up, etc.   
 
 My work often happens in front of computer screens,  but the most exciting part of my works happens while I'm interacting with real people on streets.  
 
