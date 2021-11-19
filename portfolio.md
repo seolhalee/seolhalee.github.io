@@ -31,7 +31,8 @@ _Master's thesis, Georgia Tech, 2019-2021_
 _Conference Presentation, Association of Collegiate Schools of Planning (ACSP) 2021 Annual Conference, 2021_  
 <p>Third places (e.g., cafes, bars, parks, hair salons) provide chances to meet diverse groups of people and have social interactions with them. Then we may ask, what types of places provide us more social diversity? In which neighborhoods can we find the socially diverse places? In this study, we explored the questions by estimating racial and income diversity in the third places in Alanta, GA, by using big origin-destination trip data collected from mobile GPS sensors. The study demonstrated that the social diversity in places differ by the type of places (e.g., food outlets vs. health care), residential demographics, and ongoing neighbhorhood changes around the places. To better understand the relationships, we call for contextualizing the measures by working with community members more closely. 
 <div class="img-container">
-  <img src="/images/naver2.jpg" width="35%" />
+  <img src="/images/PRD_race.png" width="35%" />
+  <img src="/images/PRD_all.png" width="35%" />
 </div>
   
 ### Inferring the Commercial Landscape using Age-biased Online Search Results
