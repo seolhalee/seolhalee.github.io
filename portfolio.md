@@ -4,10 +4,12 @@
 > Places are socially constructed, in relation of experiences, knowledge, and interactions in physical and digital spaces.  
 <p><br></p>
 
-### What Politics Can Social Media Play in Urban Development: A Case Study of an Anti-redevelopment Movement in Euljiro Street in Seoul
 
-_Master's thesis, Working Paper, 2019-2021_  
-<p>In this study, I examine the use and impact of social media in an anti-redevelopment movement ongoing in an old manufacturing district called ‘Euljiro’ in Seoul, South Korea. I used a mixed approach, combining in-depth interviews and social media text analysis to capture the different perceptions posed on the area by different groups and to figure out the impact of social media activities on community building and public discourse. Read the current<a href = "pdf/ThesisAbstract.pdf"> abstract</a></p>
+
+### The Shape of Discourse in Urban Movements through the Lens of Social Media: a Case Study of the Anti-Redevelopment Movement in South Korea
+
+_Master's thesis, Georgia Tech, 2019-2021_  
+<p>In this study, I examine the use and impact of social media in an anti-redevelopment movement ongoing in an old manufacturing district called ‘Euljiro’ in Seoul, South Korea. I used a mixed approach, combining interviews and social media text analysis to investigate how activists and citizens mobilized and shaped the discourse around the redevelopment project online. Read the <a href = "https://aag-annualmeeting.secure-platform.com/a/solicitations/19/sessiongallery/3472/application/10246"> accepted in 2022 American Association of Geographers Annual Meeting. 
 <div class="img-container">
   <img id = "img1" src="/images/euljirocapture.PNG" width="70%">
 </div> 
@@ -25,6 +27,13 @@ _Master's thesis, Working Paper, 2019-2021_
 </div>
 <p><br></p>
 
+### Estimating Estimating Diversity at Points of Interest (POIs) in Atlanta, Georgia using Origin-Destination Trip Data
+_Conference Presentation, Association of Collegiate Schools of Planning (ACSP) 2021 Annual Conference, 2021_  
+<p>Third places (e.g., cafes, bars, parks, hair salons) provide chances to meet diverse groups of people and have social interactions with them. Then we may ask, what types of places provide us more social diversity? In which neighborhoods can we find the socially diverse places? In this study, we explored the questions by estimating racial and income diversity in the third places in Alanta, GA, by using big origin-destination trip data collected from mobile GPS sensors. The study demonstrated that the social diversity in places differ by the type of places (e.g., food outlets vs. health care), residential demographics, and ongoing neighbhorhood changes around the places. To better understand the relationships, we call for contextualizing the measures by working with community members more closely. 
+<div class="img-container">
+  <img src="/images/naver2.jpg" width="35%" />
+</div>
+  
 ### Inferring the Commercial Landscape using Age-biased Online Search Results
 _Conference Paper, In UbiComp 2019 Adjunct Proceedings_  
 <p>What does the different result of age-biased place recommendation tell us about a place? How does the restaurant preference of different age groups correlate with actual commercial activities at a place? In this study, we analyzed the consumer-age-specific patterns of restaurant preferences in commercial areas of Seoul, through the mining of place recommendation results from the Naver Place online service. Our results suggest that both high-traffic and rapidly changing commercial areas present diverse options appealing to all age groups and that this diversity is primarily driven by the tastes of younger age groups. <a href = "https://doi.org/10.1145/3341162.3349322">Read the paper</a></p>   
