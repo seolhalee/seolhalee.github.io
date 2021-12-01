@@ -9,7 +9,7 @@
 ### The Shape of Discourse in Urban Movements through the Lens of Social Media: a Case Study of the Anti-Redevelopment Movement in South Korea
 
 _Master's thesis, Georgia Tech, 2019-2021_  
-<p>In this study, I examine the use and impact of social media in an anti-redevelopment movement ongoing in an old manufacturing district called ‘Euljiro’ in Seoul, South Korea. I used a mixed approach, combining interviews and social media text analysis to investigate how activists and citizens mobilized and shaped the discourse around the redevelopment project online. Read the <a href = "https://aag-annualmeeting.secure-platform.com/a/solicitations/19/sessiongallery/3472/application/10246"> accepted in 2022 American Association of Geographers Annual Meeting. 
+<p>In this study, I examine the use and impact of social media in an anti-redevelopment movement ongoing in an old manufacturing district called ‘Euljiro’ in Seoul, South Korea. I used a mixed approach, combining interviews and social media text analysis to investigate how activists and citizens mobilized and shaped the discourse around the redevelopment project online. Read the <a href = "https://aag-annualmeeting.secure-platform.com/a/solicitations/19/sessiongallery/3472/application/10246"> accepted in 2022 American Association of Geographers Annual Meeting. </a></p> 
 <div class="img-container">
   <img id = "img1" src="/images/euljirocapture.PNG" width="70%">
 </div> 
