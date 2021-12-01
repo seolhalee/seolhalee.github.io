@@ -34,6 +34,7 @@ _Conference Presentation, Association of Collegiate Schools of Planning (ACSP) 2
   <img src="/images/PRD_race.png" width="35%" />
   <img src="/images/PRD_all.png" width="35%" />
 </div>
+<p><br></p>
   
 ### Inferring the Commercial Landscape using Age-biased Online Search Results
 _Conference Paper, In UbiComp 2019 Adjunct Proceedings_  
