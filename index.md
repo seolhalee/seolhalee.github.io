@@ -1,6 +1,6 @@
 ## Bio
 
-Hi, I'm a first-year PhD student in [Informatics at University California, Irvine](https://www.informatics.uci.edu/).   
+Hi, I'm a PhD student in [Informatics at University California, Irvine](https://www.informatics.uci.edu/).   
 
 In my research, I explore **the politics of data and information systems in urban governance**. In the realm of wicked data where big data analytics and community mapping happen at the same time, how do we quantify and represent our lived experiences in city space through data? what kinds of negotiations and compromises happen in the data-driven decision-making processes? 
 
@@ -35,23 +35,25 @@ Chande, A., <span style="color:#3d2478">Lee, S.</span>, Harris, M., Nguyen, Q., 
 [Nature Human Behavior, 2020](https://www.nature.com/articles/s41562-020-01000-9.epdf?sharing_token=N76iQiJi4MMfZlgL5CzCmtRgN0jAjWel9jnR3ZoTv0MxoMi5KsUayERBHA5eSMONUMN2Q6hJuJwlPGsZt-vBiiTQs7sU1kIpVKm93HyoihgBoBkEvityJyAIQvURfffqrG5TWZSQjM5tYqbOJq9hlmo1Qp5wJ1QsxhnVMRp60AU%3D)
 
 **Inferring the character of urban commercial areas from age-biased online search results: how place recommendation data can reveal dynamic seoul neighborhoods**  
-Lee, D., <span style="color:#3d2478">Lee, S.</span>    
-In Adjunct Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers (UbiComp/ISWC ’19 Adjunct)
+Lee, D., <span style="color:#3d2478">Lee, S.</span> In Adjunct Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers (UbiComp/ISWC ’19 Adjunct)
+
+**Characteristics of Jetters and Little Boxes: An Extensibility Study Using the Neighborhood Connectivity Survey**
+Liang, X., <span style="color:#3d2478">Lee, S.</span>, Chen, H., de la Peña, B., Andris, C. [Social Inclusion, 2022](https://www.cogitatiopress.com/socialinclusion/article/view/5366)
 
 ---
 
 ## Presentations
 **How Urban Activism Evolves with Social Media: A Case Study of the Anti-Redevelopment Activism in Seoul, South Korea**
 <span style="color:#3d2478">Lee, S.</span>
-[American Association of Geographers 2022 Annual Meeting (forthcoming)](https://aag-annualmeeting.secure-platform.com/a/gallery/rounds/27/details/13592)
+[American Association of Geographers 2022 Annual Meeting, 2022](https://aag-annualmeeting.secure-platform.com/a/gallery/rounds/27/details/13592)
 
 **Estimating Diversity at Points of Interest (POIs) in Atlanta, Georgia using Origin-Destination Trip Data**  
 <span style="color:#3d2478">Lee, S.</span>, Andris, C.    
 Association of Collegiate Schools of Planning (ACSP) 2021 Annual Conference, Virtual. 
 
-**Characteristics of Individuals with Global, Local or Glocal Connectivity Patterns** 
+<!-- **Characteristics of Individuals with Global, Local or Glocal Connectivity Patterns** 
 Liang, X., <span style="color:#3d2478">Lee, S.</span>, Andris, C., Chen, H., and De La Pena, B.  
-North American Meetings of the Regional Science Association International, November, 2020    
+North American Meetings of the Regional Science Association International, November, 2020     -->
 
 
 
@@ -63,7 +65,7 @@ North American Meetings of the Regional Science Association International, Novem
 ## Research Experience
 ####  Graduate Researcher, University of California - Irvine  
 [Steckler Center for Responsible, Ethical, and Accessible Technology (CREATE)](https://create.ics.uci.edu/) _2021-Present_   
-> Leading research where I explore how local governments put justice in action through quantification 
+> Leading research where I examine how local governments adopt data-driven technology to policy decisions to improve social justice and equity  
 
 ####  Graduate Research Assistant, Georgia Tech  
 [Friendly Cities Lab](http://friendlycities.gatech.edu/) (Lead: Dr. Clio Andris), School of City and Regional Planning _2019-2021_   
@@ -77,16 +79,22 @@ North American Meetings of the Regional Science Association International, Novem
 
 ## Work Experience 
 
-#### Intern
-Atlanta Regional Commission, Atlanta, GA, US _2020_
+#### San Francisco Planning Department, Intern
+San Francisco, CA, US _2022_
+> Team: Community Equity Division 
+> - Developed a prototype of San Francisco Neighborhood Profiles (interactive dashboard)
+> - Led the project managing inter-departmental communication and design processes 
+
+#### Atlanta Regional Commission, Intern
+Atlanta, GA, US _2020_
 > Team: Research & Analytics, Transportation & Mobility Services (Joint)
 > - Technical support to improve public access to urban data
 > - Spatial analysis for equitable commuting regarding COVID-19  
 
-#### Urban Planner / GIS Analyst
-YANJI.CO.LTD., Seoul, South Korea _2017-2019_
-> - Designed and Implemented Interactive Media for Participatory planning workshops   
-> - Spatial Analysis for strategic designs to better use public spaces  
+#### YANJI.CO.LTD., Urban Planner / GIS Analyst
+Seoul, South Korea _2017-2019_
+> - Designed and implemented interactive media for participatory planning workshops   
+> - Spatial Analysis for strategic design of public spaces  
 
 ---
 
