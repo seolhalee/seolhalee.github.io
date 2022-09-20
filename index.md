@@ -48,8 +48,7 @@ Liang, X., <span style="color:#3d2478">Lee, S.</span>, Chen, H., de la Peña, B.
 [American Association of Geographers 2022 Annual Meeting, 2022](https://aag-annualmeeting.secure-platform.com/a/gallery/rounds/27/details/13592)
 
 **Estimating Diversity at Points of Interest (POIs) in Atlanta, Georgia using Origin-Destination Trip Data**  
-<span style="color:#3d2478">Lee, S.</span>, Andris, C.    
-Association of Collegiate Schools of Planning (ACSP) 2021 Annual Conference, Virtual. 
+<span style="color:#3d2478">Lee, S.</span>, Andris, C. Association of Collegiate Schools of Planning (ACSP) 2021 Annual Conference, Virtual. 
 
 <!-- **Characteristics of Individuals with Global, Local or Glocal Connectivity Patterns** 
 Liang, X., <span style="color:#3d2478">Lee, S.</span>, Andris, C., Chen, H., and De La Pena, B.  
