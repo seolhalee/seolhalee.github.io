@@ -2,7 +2,7 @@
 
 Hi, I'm a PhD student in [Informatics at University California, Irvine](https://www.informatics.uci.edu/).   
 
-In my research, I explore **the politics of data and information systems in urban governance**. In the realm of wicked data where big data analytics and community mapping happen at the same time, how do we quantify and represent our lived experiences in city space through data? what kinds of negotiations and compromises happen in the data-driven decision-making processes? 
+In my research, I explore **negotiations in data-driven decision-making systems and knowledge infrastructure in urban governance**. In the realm of wicked data where big data analytics and community mapping happen at the same time, how do we quantify and represent our lived experiences in city space through data? what kinds of negotiations and compromises happen in the data-driven decision-making processes? 
 
 Leveraging mixed methods, I pursue ways to make the decision-making processes more _democratic and just_, by **designing information systems** for collaborative sense-making and community-centered data science.
 
@@ -30,6 +30,10 @@ Minor in Geography
 ---
 
 ## Publications 
+
+**Characteristics of Jetters and Little Boxes: An Extensibility Study Using the Neighborhood Connectivity Survey**
+Liang, X., <span style="color:#3d2478">Lee, S.</span>, Chen, H., de la Peña, B., Andris, C. [Social Inclusion, 2022](https://www.cogitatiopress.com/socialinclusion/article/view/5366)
+
 **Real-time, interactive website for US-county-level COVID-19 event risk assessment**
 Chande, A., <span style="color:#3d2478">Lee, S.</span>, Harris, M., Nguyen, Q., Beckett, S., Hilley, T., Andris, C., Weitz, J.
 [Nature Human Behavior, 2020](https://www.nature.com/articles/s41562-020-01000-9.epdf?sharing_token=N76iQiJi4MMfZlgL5CzCmtRgN0jAjWel9jnR3ZoTv0MxoMi5KsUayERBHA5eSMONUMN2Q6hJuJwlPGsZt-vBiiTQs7sU1kIpVKm93HyoihgBoBkEvityJyAIQvURfffqrG5TWZSQjM5tYqbOJq9hlmo1Qp5wJ1QsxhnVMRp60AU%3D)
@@ -37,8 +41,7 @@ Chande, A., <span style="color:#3d2478">Lee, S.</span>, Harris, M., Nguyen, Q., 
 **Inferring the character of urban commercial areas from age-biased online search results: how place recommendation data can reveal dynamic seoul neighborhoods**  
 Lee, D., <span style="color:#3d2478">Lee, S.</span> In Adjunct Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers (UbiComp/ISWC ’19 Adjunct)
 
-**Characteristics of Jetters and Little Boxes: An Extensibility Study Using the Neighborhood Connectivity Survey**
-Liang, X., <span style="color:#3d2478">Lee, S.</span>, Chen, H., de la Peña, B., Andris, C. [Social Inclusion, 2022](https://www.cogitatiopress.com/socialinclusion/article/view/5366)
+
 
 ---
 
