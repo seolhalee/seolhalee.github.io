@@ -32,7 +32,7 @@ Minor in Geography
 ## Publications 
 
 **More Than a Property: Place-based Meaning Making and Mobilization on Social Media to Resist Gentrification**
-<span style="color:#3d2478">Lee, S.</span>, Le Dantec, C. [Proc. ACM Hum.-Comput. Interact. 7, CSCW1, 2023](/pdf/V7csvw075-lee.pdf)
+<span style="color:#3d2478">Lee, S.</span>, Le Dantec, C. [Proc. ACM Hum.-Comput. Interact. 7, CSCW1, 2023](/pdf/V7cscw075-lee.pdf)
 
 **Characteristics of Jetters and Little Boxes: An Extensibility Study Using the Neighborhood Connectivity Survey**
 Liang, X., <span style="color:#3d2478">Lee, S.</span>, Chen, H., de la Peña, B., Andris, C. [Social Inclusion, 2022](https://www.cogitatiopress.com/socialinclusion/article/view/5366)
