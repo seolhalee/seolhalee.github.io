@@ -1,5 +1,40 @@
 ## Portfolio
 ---
+
+## Data for Story Telling and Decision Making 
+> Data narratives make people take actions 
+
+<p><br></p>
+
+### SF Neighborhood Profiles   
+_User-centered Interactive Map/Web Development, 2022-23_    
+<p>In this project, I designed and developed an interactive data dashboard called 'Neighborhood Data Hub' in collaboration with San Francisco Planning Department. The dashbaord aimed to inform equitable planning decisions by providing nuanced information about communities' lives in SF neighborhoods. The collaborative design process, which enaged planners, city staff, and community members, unpacked the gaps and conflicts in the way the entities perceived the role and value of data in improving equity in city governance, and what organizational barriers existed in achieving the goals. 
+<br>
+</p>
+![SFNDH](/images/SFNDH.gif) 
+
+
+_An academic paper about this project is in progress_
+
+<p><br></p>
+
+### COVID-19 Event Risk Planner  
+_Interactive Map, Web Development, 2020_    
+<p>I designed and developed an interactive map tool to inform the expected risk of gatherings and group events in each county in the US, as a part of the COVID-19 Event Risk Planner web tool developed by Weitz Team at Georgia Tech BioScience. The web app has been gathering huge public attention and featured in Fast Company, AJC, and other press. 
+<br>
+<a href = "https://covid19risk.biosci.gatech.edu/">Check out the current COVID-19 risk level of group events</a></p>
+![COVIDTOOL](/images/coviddemo.gif) 
+<p>
+Selected Featured Articles:
+<br>
+  <ul>
+    <li>MapLab: An Actionable Map of Covid Risk, Bloomberg CityLab, August 05, 2020 <a href = "https://www.bloomberg.com/news/newsletters/2020-08-12/maplab-an-actionable-map-of-covid-risk">Link</a></li>
+  <li>To Navigate Risk In a Pandemic, You Need a Color-Coded Chart, Wired, July 21, 2020 <a href = "https://www.wired.com/story/to-navigate-risk-in-a-pandemic-you-need-a-color-coded-chart/">Link</a></li>
+  <li>Is it safe to go to a local store or school? Real-time COVID-19 risk calculator helps you decide, FastCampus, July 13, 2020 <a href = "https://www.fastcompany.com/90527197/is-it-safe-to-go-to-a-local-store-or-school-real-time-covid-19-risk-calculator-helps-you-decide">Link</a></li>
+</ul></p>
+
+<p><br></p>
+
 ## Socially Constructed Space: Place Dynamics and Digital Media 
 > Places are socially constructed, in relation of experiences, knowledge, and interactions in physical and digital spaces.  
 <p><br></p>
@@ -39,27 +74,6 @@ _Publication: Lee, D., Lee, S. Inferring the character of urban commercial areas
 <p><br></p>
 
 ---
-## Spatially Embedded Social Network and Interactions 
-> Social networks are embedded in urban space, mediating our lives in cities.  
-
-<p><br></p>
-
-### COVID-19 Event Risk Planner  
-_Interactive Map, Web Development, 2020_    
-<p>I designed and developed an interactive map tool to inform the expected risk of gatherings and group events in each county in the US, as a part of the COVID-19 Event Risk Planner web tool developed by Weitz Team at Georgia Tech BioScience. The web app has been gathering huge public attention and featured in Fast Company, AJC, and other press. 
-<br>
-<a href = "https://covid19risk.biosci.gatech.edu/">Check out the current COVID-19 risk level of group events</a></p>
-![COVIDTOOL](/images/coviddemo.gif) 
-<p>
-Selected Featured Articles:
-<br>
-  <ul>
-    <li>MapLab: An Actionable Map of Covid Risk, Bloomberg CityLab, August 05, 2020 <a href = "https://www.bloomberg.com/news/newsletters/2020-08-12/maplab-an-actionable-map-of-covid-risk">Link</a></li>
-  <li>To Navigate Risk In a Pandemic, You Need a Color-Coded Chart, Wired, July 21, 2020 <a href = "https://www.wired.com/story/to-navigate-risk-in-a-pandemic-you-need-a-color-coded-chart/">Link</a></li>
-  <li>Is it safe to go to a local store or school? Real-time COVID-19 risk calculator helps you decide, FastCampus, July 13, 2020 <a href = "https://www.fastcompany.com/90527197/is-it-safe-to-go-to-a-local-store-or-school-real-time-covid-19-risk-calculator-helps-you-decide">Link</a></li>
-</ul></p>
-
-<p><br></p>
 
 ### Who Has Local, Global, Glocal Set of Connections?: Classifying Individual Spatial and Social Networks
 _Conference Paper, NARSC 2020_  
