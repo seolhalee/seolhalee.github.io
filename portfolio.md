@@ -1,7 +1,7 @@
 ## Portfolio
 ---
 
-## Data for Story Telling and Decision Making 
+## Data for Storytelling and Decision-Making 
 > Data narratives make people take actions 
 
 <p><br></p>
