@@ -1,13 +1,13 @@
 ## Portfolio
 ---
 
-## Data for Storytelling and Decision-Making 
+## Data for Situated Storytelling and Decision-Making 
 > Data narratives make people take actions 
 
 <p><br></p>
 
 ### SF Neighborhood Profiles   
-_User-centered Interactive Map/Web Development, 2022-23_    
+_Community-Based Interactive Map/Web Development, 2022-23_    
 <p>In this project, I designed and developed an interactive data dashboard called 'Neighborhood Data Hub' in collaboration with San Francisco Planning Department. The dashbaord aimed to inform equitable planning decisions by providing nuanced information about communities' lives in SF neighborhoods. The collaborative design process, which enaged planners, city staff, and community members, unpacked the gaps and conflicts in the way the entities perceived the role and value of data in improving equity in city governance, and what organizational barriers existed in achieving the goals. 
 <br>
 </p>
