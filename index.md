@@ -41,7 +41,7 @@ Liang, X., <span style="color:#3d2478">Lee, S.</span>, Chen, H., de la Peña, B.
 Chande, A., <span style="color:#3d2478">Lee, S.</span>, Harris, M., Nguyen, Q., Beckett, S., Hilley, T., Andris, C., Weitz, J.
 [Nature Human Behavior, 2020](https://www.nature.com/articles/s41562-020-01000-9.epdf?sharing_token=N76iQiJi4MMfZlgL5CzCmtRgN0jAjWel9jnR3ZoTv0MxoMi5KsUayERBHA5eSMONUMN2Q6hJuJwlPGsZt-vBiiTQs7sU1kIpVKm93HyoihgBoBkEvityJyAIQvURfffqrG5TWZSQjM5tYqbOJq9hlmo1Qp5wJ1QsxhnVMRp60AU%3D)
 
-**Inferring the character of urban commercial areas from age-biased online search results: how place recommendation data can reveal dynamic seoul neighborhoods**  
+**Inferring the character of urban commercial areas from age-biased online search results: how place recommendation data can reveal dynamic Seoul neighborhoods**  
 Lee, D., <span style="color:#3d2478">Lee, S.</span> In Adjunct Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers (UbiComp/ISWC ’19 Adjunct)
 
 
@@ -49,6 +49,9 @@ Lee, D., <span style="color:#3d2478">Lee, S.</span> In Adjunct Proceedings of th
 ---
 
 ## Presentations
+**Interrupting governments’ data performance: Critical reading of government data narratives as a strategy to empower communities in data-driven cities**
+<span style="color:#3d2478">Lee, S.</span>, Warren, R., Mazmanian, M. [Data Justice Conference, 2023, Cardiff, UK.]
+
 **How Urban Activism Evolves with Social Media: A Case Study of the Anti-Redevelopment Activism in Seoul, South Korea**
 <span style="color:#3d2478">Lee, S.</span>
 [American Association of Geographers 2022 Annual Meeting, 2022](https://aag-annualmeeting.secure-platform.com/a/gallery/rounds/27/details/13592)
