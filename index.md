@@ -50,7 +50,7 @@ Lee, D., <span style="color:#3d2478">Lee, S.</span> In Adjunct Proceedings of th
 
 ## Presentations
 **Interrupting governments’ data performance: Critical reading of government data narratives as a strategy to empower communities in data-driven cities**
-<span style="color:#3d2478">Lee, S.</span>, Warren, R., Mazmanian, M. [Data Justice Conference, 2023, Cardiff, UK.]
+<span style="color:#3d2478">Lee, S.</span>, Warren, R., Mazmanian, M. [Data Justice Conference, 2023, Cardiff, UK.](https://datajusticelab.org/data-justice-2023-conference-programme/)
 
 **How Urban Activism Evolves with Social Media: A Case Study of the Anti-Redevelopment Activism in Seoul, South Korea**
 <span style="color:#3d2478">Lee, S.</span>
