@@ -2,17 +2,17 @@
 
 Hi, I'm a PhD student in [Informatics at University California, Irvine](https://www.informatics.uci.edu/).   
 
-In my research, I look at **data-driven decision-support systems and knowledge infrastructure in urban governance**. In the realm of wicked data where big data analytics and community mapping happen at the same time, how do we quantify and represent our lived experiences in city space through data? what kinds of negotiations and compromises happen in the data-driven decision-making processes? 
+In my research, I look at **data-driven decision-support systems and knowledge infrastructure in urban governance**. In the realm of wicked data, where big data analytics and community mapping happen at the same time, how can we represent the voices of different social groups truthfully and equally through data? What kinds of negotiations and compromises happen in the data-driven decision-making processes? 
 
 Leveraging mixed methods, I pursue ways to make the decision-making processes more _democratic and just_, by **designing information systems** for collaborative sense-making and community-centered data science.
 
-Before I joined the current program, I studied urban planning at Georgia Tech, focusing on urban data analytics to understand social networks and activities of urban communities. 
+Before I joined the current program, I studied urban planning at Georgia Tech, focusing on urban data analytics to understand urban communities' social networks and activities. 
 
 I have also practiced as a strategic designer/data analyst in urban planning & design organizations in South Korea and the US. There I found my interest in the power of data that can either support or suppress people in cities. 
 
 These experiences across **urban data analytics** and **participatory planning** have invited me to tackle the conflicting values and interests manifested through disparate approaches to data: qualitative and quantitative; objective and subjective: top-down and bottom-up, etc.   
 
-My work often happens in front of computer screens,  but the most exciting part of my works happens while I'm interacting with real people on streets.  
+My work often happens in front of computer screens,  but the most exciting part of my works happens while I'm interacting with real people on the streets.  
 
 ---
 
