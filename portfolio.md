@@ -6,13 +6,23 @@
 
 <p><br></p>
 
-### SF Neighborhood Profiles   
+### Neighborhood Data Hub: A data initiative to elevate equity in city governance   
 _Community-Based Interactive Map/Web Development, 2022-23_    
-<p>In this project, I designed and developed an interactive data dashboard called 'Neighborhood Data Hub' in collaboration with San Francisco Planning Department. The dashbaord aimed to inform equitable planning decisions by providing nuanced information about communities' lives in SF neighborhoods. The collaborative design process, which enaged planners, city staff, and community members, unpacked the gaps and conflicts in the way the entities perceived the role and value of data in improving equity in city governance, and what organizational barriers existed in achieving the goals. 
+<p>In this project, I designed and developed an interactive data dashboard called 'Neighborhood Data Hub' in collaboration with a Planning Department in a city in California. The dashboard aimed to inform equitable planning decisions by providing nuanced information about communities' lives in the city's neighborhoods. The collaborative design process, which engaged planners, city staff, and community members, unpacked the gaps and conflicts in the way the entities perceived the role and value of data in improving equity in city governance, and what organizational barriers existed in achieving the goals. 
 <br>
 </p>
 ![SFNDH](/images/SFNDH.gif) 
 
+_An academic paper about this project is in progress_
+
+<p><br></p>
+
+### Interrupting governments’ data performance: Critical reading of public data communication   
+_Conference Presentation (Working paper), 2023_    
+<p>In this paper, we analyzed the public presentation of government city data initiatives as data performance through which governments earn legitimacy to control data's value and role in cities. Our analysis revealed two distinct narratives from the public presentations and their common storytelling structure. Demonstrating the critical analysis of the narratives focusing on government-citizen relations, we argue that critical reading of public data presentations through the lens of data performance could be a tactic of resistance for communities and activists pursuing data justice.     
+<br>
+</p>
+![DataPerformance](/images/datajustice.png) 
 
 _An academic paper about this project is in progress_
 
@@ -39,12 +49,14 @@ Selected Featured Articles:
 > Places are socially constructed, in relation of experiences, knowledge, and interactions in physical and digital spaces.  
 <p><br></p>
 
+### More Than a Property: Place-based Meaning Making and Mobilization on Social Media to Resist Gentrification 
+_Conference Paper, CSCW 2023_
+This study examined the successes and challenges in counter-narrative building on social media in the context of place-based activism resisting urban redevelopment and gentrification. We conducted a qualitative analysis of online discourse on Twitter around the redevelopment of an old manufacturing district in Seoul, South Korea. While the place-based nature of the resistance complicated the public mobilization online, the collective meaning-making based on individuals' experiences and relations to the contested place rendered the resistance relevant to those who were neither the tenants nor property owners and induced political actions to affect policy decisions. <a href = "https://dl.acm.org/doi/10.1145/3579508">Read the paper</a></p>   
 
-
-### The Shape of Discourse in Urban Movements through the Lens of Social Media: a Case Study of the Anti-Redevelopment Movement in South Korea
-
+<!--### The Shape of Discourse in Urban Movements through the Lens of Social Media: a Case Study of the Anti-Redevelopment Movement in South Korea
 _Master's thesis, Georgia Tech, 2019-2021_  
 <p>In this study, I examine the use and impact of social media in an anti-redevelopment movement ongoing in an old manufacturing district called ‘Euljiro’ in Seoul, South Korea. I used a mixed approach, combining interviews and social media text analysis to investigate how activists and citizens mobilized and shaped the discourse around the redevelopment project online. Read the <a href = "https://aag-annualmeeting.secure-platform.com/a/solicitations/19/sessiongallery/3472/application/10246"> abstract accepted in 2022 American Association of Geographers Annual Meeting. </a></p> 
+-->
 <div class="img-container">
   <img id = "img1" src="/images/euljirocapture.PNG" width="70%">
 </div> 
