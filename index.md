@@ -29,7 +29,7 @@ Chande, A., <span style="color:#77B5B6">Lee, S.</span>, Harris, M., Nguyen, Q., 
 *[Nature Human Behavior, 2020](https://www.nature.com/articles/s41562-020-01000-9.epdf?sharing_token=N76iQiJi4MMfZlgL5CzCmtRgN0jAjWel9jnR3ZoTv0MxoMi5KsUayERBHA5eSMONUMN2Q6hJuJwlPGsZt-vBiiTQs7sU1kIpVKm93HyoihgBoBkEvityJyAIQvURfffqrG5TWZSQjM5tYqbOJq9hlmo1Qp5wJ1QsxhnVMRp60AU%3D)*
 
 Inferring the Character of Urban Commercial Areas from Age-biased Online Search Results: How Place Recommendation Data Can Reveal Dynamic Seoul Neighborhoods.  
-Lee, D., <span style="color:#77B5B6">Lee, S.</span> *In UbiComp/ISWC ’19 Adjunct*
+Lee, D., <span style="color:#77B5B6">Lee, S.</span> *In UbiComp/ISWC Adjunct, 2019*
 
 
 
