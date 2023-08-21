@@ -19,17 +19,17 @@ My work often happens in front of computer screens,  but the most exciting part 
 ## Publications 
 
 More Than a Property: Place-based Meaning Making and Mobilization on Social Media to Resist Gentrification.
-*<span style="color:#77B5B6">Lee, S., Le Dantec, C. [Proc. ACM Hum.-Comput. Interact. 7, CSCW1, 2023](/pdf/V7cscw075-lee.pdf)</span>*
+<span style="color:#77B5B6">Lee, S.</span>, Le Dantec, C. *[Proc. ACM Hum.-Comput. Interact. 7, CSCW1, 2023](/pdf/V7cscw075-lee.pdf)*
 
 Characteristics of Jetters and Little Boxes: An Extensibility Study Using the Neighborhood Connectivity Survey.
-*Liang, X., <span style="color:#77B5B6">Lee, S.</span>, Chen, H., de la Peña, B., Andris, C. [Social Inclusion, 2022](https://www.cogitatiopress.com/socialinclusion/article/view/5366)*
+Liang, X., <span style="color:#77B5B6">Lee, S.</span>, Chen, H., de la Peña, B., Andris, C. *[Social Inclusion, 2022](https://www.cogitatiopress.com/socialinclusion/article/view/5366)*
 
 Real-time, Interactive Website for US-county-level COVID-19 Event Risk Assessment.
-*Chande, A., <span style="color:#77B5B6">Lee, S.</span>, Harris, M., Nguyen, Q., Beckett, S., Hilley, T., Andris, C., Weitz, J.
-[Nature Human Behavior, 2020](https://www.nature.com/articles/s41562-020-01000-9.epdf?sharing_token=N76iQiJi4MMfZlgL5CzCmtRgN0jAjWel9jnR3ZoTv0MxoMi5KsUayERBHA5eSMONUMN2Q6hJuJwlPGsZt-vBiiTQs7sU1kIpVKm93HyoihgBoBkEvityJyAIQvURfffqrG5TWZSQjM5tYqbOJq9hlmo1Qp5wJ1QsxhnVMRp60AU%3D)*
+Chande, A., <span style="color:#77B5B6">Lee, S.</span>, Harris, M., Nguyen, Q., Beckett, S., Hilley, T., Andris, C., Weitz, J.
+*[Nature Human Behavior, 2020](https://www.nature.com/articles/s41562-020-01000-9.epdf?sharing_token=N76iQiJi4MMfZlgL5CzCmtRgN0jAjWel9jnR3ZoTv0MxoMi5KsUayERBHA5eSMONUMN2Q6hJuJwlPGsZt-vBiiTQs7sU1kIpVKm93HyoihgBoBkEvityJyAIQvURfffqrG5TWZSQjM5tYqbOJq9hlmo1Qp5wJ1QsxhnVMRp60AU%3D)*
 
 Inferring the Character of Urban Commercial Areas from Age-biased Online Search Results: How Place Recommendation Data Can Reveal Dynamic Seoul Neighborhoods.  
-*Lee, D., <span style="color:#77B5B6">Lee, S.</span> In Adjunct Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers (UbiComp/ISWC ’19 Adjunct)*
+Lee, D., <span style="color:#77B5B6">Lee, S.</span> *In UbiComp/ISWC ’19 Adjunct*
 
 
 
