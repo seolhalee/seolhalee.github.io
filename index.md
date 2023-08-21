@@ -1,6 +1,6 @@
 ## Bio
 
-Hi, I'm a PhD student in [Informatics at University California, Irvine](https://www.informatics.uci.edu/).   
+Hi, I'm a PhD student in Informatics at the University of California, Irvine.   
 
 In my research, I look at **data-driven decision-support systems and knowledge infrastructure in urban governance**. In the realm of wicked data, where big data analytics and community mapping happen at the same time, how can we represent the voices of different social groups truthfully and equally through data? What kinds of negotiations and compromises happen in the data-driven decision-making processes? 
 
