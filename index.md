@@ -18,18 +18,13 @@ My work often happens in front of computer screens,  but the most exciting part 
 
 ## Publications 
 
-More Than a Property: Place-based Meaning Making and Mobilization on Social Media to Resist Gentrification.
-<span style="color:#77B5B6">Lee, S.</span>, Le Dantec, C. *[Proc. ACM Hum.-Comput. Interact. 7, CSCW1, 2023](/pdf/V7cscw075-lee.pdf)*
+<span style="color:#77B5B6">Lee, S.</span>, Le Dantec, C. More Than a Property: Place-based Meaning Making and Mobilization on Social Media to Resist Gentrification. *[Proc. ACM Hum.-Comput. Interact. 7, CSCW1, 2023](/pdf/V7cscw075-lee.pdf)*
 
-Characteristics of Jetters and Little Boxes: An Extensibility Study Using the Neighborhood Connectivity Survey.
-Liang, X., <span style="color:#77B5B6">Lee, S.</span>, Chen, H., de la Peña, B., Andris, C. *[Social Inclusion, 2022](https://www.cogitatiopress.com/socialinclusion/article/view/5366)*
+Liang, X., <span style="color:#77B5B6">Lee, S.</span>, Chen, H., de la Peña, B., Andris, C. Characteristics of Jetters and Little Boxes: An Extensibility Study Using the Neighborhood Connectivity Survey. *[Social Inclusion, 2022](https://www.cogitatiopress.com/socialinclusion/article/view/5366)*
 
-Real-time, Interactive Website for US-county-level COVID-19 Event Risk Assessment.
-Chande, A., <span style="color:#77B5B6">Lee, S.</span>, Harris, M., Nguyen, Q., Beckett, S., Hilley, T., Andris, C., Weitz, J.
-*[Nature Human Behavior, 2020](https://www.nature.com/articles/s41562-020-01000-9.epdf?sharing_token=N76iQiJi4MMfZlgL5CzCmtRgN0jAjWel9jnR3ZoTv0MxoMi5KsUayERBHA5eSMONUMN2Q6hJuJwlPGsZt-vBiiTQs7sU1kIpVKm93HyoihgBoBkEvityJyAIQvURfffqrG5TWZSQjM5tYqbOJq9hlmo1Qp5wJ1QsxhnVMRp60AU%3D)*
+Chande, A., <span style="color:#77B5B6">Lee, S.</span>, Harris, M., Nguyen, Q., Beckett, S., Hilley, T., Andris, C., Weitz, J. Real-time, Interactive Website for US-county-level COVID-19 Event Risk Assessment. *[Nature Human Behavior, 2020](https://www.nature.com/articles/s41562-020-01000-9.epdf?sharing_token=N76iQiJi4MMfZlgL5CzCmtRgN0jAjWel9jnR3ZoTv0MxoMi5KsUayERBHA5eSMONUMN2Q6hJuJwlPGsZt-vBiiTQs7sU1kIpVKm93HyoihgBoBkEvityJyAIQvURfffqrG5TWZSQjM5tYqbOJq9hlmo1Qp5wJ1QsxhnVMRp60AU%3D)*
 
-Inferring the Character of Urban Commercial Areas from Age-biased Online Search Results: How Place Recommendation Data Can Reveal Dynamic Seoul Neighborhoods.  
-Lee, D., <span style="color:#77B5B6">Lee, S.</span> *In UbiComp/ISWC Adjunct, 2019*
+Lee, D., <span style="color:#77B5B6">Lee, S.</span> Inferring the Character of Urban Commercial Areas from Age-biased Online Search Results: How Place Recommendation Data Can Reveal Dynamic Seoul Neighborhoods. *In UbiComp/ISWC Adjunct, 2019*
 
 
 
@@ -43,8 +38,7 @@ How Urban Activism Evolves with Social Media: A Case Study of the Anti-Redevelop
 <span style="color:#3d2478">Lee, S.</span>
 [American Association of Geographers 2022 Annual Meeting, 2022](https://aag-annualmeeting.secure-platform.com/a/gallery/rounds/27/details/13592)
 
-Estimating Diversity at Points of Interest (POIs) in Atlanta, Georgia using Origin-Destination Trip Data.  
-<span style="color:#3d2478">Lee, S.</span>, Andris, C. Association of Collegiate Schools of Planning (ACSP) 2021 Annual Conference, Virtual. 
+Estimating Diversity at Points of Interest (POIs) in Atlanta, Georgia using Origin-Destination Trip Data. <span style="color:#3d2478">Lee, S.</span>, Andris, C. Association of Collegiate Schools of Planning (ACSP) 2021 Annual Conference, Virtual. 
 
 <!-- **Characteristics of Individuals with Global, Local or Glocal Connectivity Patterns** 
 Liang, X., <span style="color:#3d2478">Lee, S.</span>, Andris, C., Chen, H., and De La Pena, B.  
