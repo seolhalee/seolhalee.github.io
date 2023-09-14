@@ -11,7 +11,7 @@ _Community-Based Interactive Map/Web Development, 2022-23_
 <p>In this project, I designed and developed an interactive data dashboard called 'Neighborhood Data Hub' in collaboration with a Planning Department in a city in California. The dashboard aimed to inform equitable planning decisions by providing nuanced information about communities' lives in the city's neighborhoods. The collaborative design process, which engaged planners, city staff, and community members, unpacked the gaps and conflicts in the way the entities perceived the role and value of data in improving equity in city governance, and what organizational barriers existed in achieving the goals. 
 <br>
 </p>
-![SFNDH](/images/SFNDH.gif) 
+<!--###![SFNDH](/images/SFNDH.gif) -->
 
 _An academic paper about this project is in progress_
 
