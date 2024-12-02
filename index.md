@@ -20,7 +20,7 @@ My work often happens in front of computer screens,  but the most exciting part 
 
 <span style="color:#77B5B6">Lee, S.</span>, and Dourish, P. 2024. Rewiring Data Relations: Institutional data infrastructure for social justice. *[Proc. ACM Hum.-Comput. Interact. 8, CSCW2](https://dl.acm.org/doi/10.1145/3686959)* 
 
-<span style="color:#77B5B6">Lee, S.</span>, Warren, R., Mazmanizn, M. 2024. Efficient service provider or Committed social reformer?: Governmental data storytelling around city data projects. *Big Data & Society* (submitted)
+<span style="color:#77B5B6">Lee, S.</span>, Warren, R., Mazmanian, M. 2024. Efficient service provider or Committed social reformer?: Governmental data storytelling around city data projects. *Big Data & Society* (submitted)
 
 <span style="color:#77B5B6">Lee, S.</span>, Le Dantec, C. 2023. More Than a Property: Place-based Meaning Making and Mobilization on Social Media to Resist Gentrification. *[Proc. ACM Hum.-Comput. Interact. 7, CSCW1](/pdf/V7cscw075-lee.pdf)*
 
