@@ -18,19 +18,30 @@ My work often happens in front of computer screens,  but the most exciting part 
 
 ## Publications 
 
-<span style="color:#77B5B6">Lee, S.</span>, Le Dantec, C. More Than a Property: Place-based Meaning Making and Mobilization on Social Media to Resist Gentrification. *[Proc. ACM Hum.-Comput. Interact. 7, CSCW1, 2023](/pdf/V7cscw075-lee.pdf)*
+<span style="color:#77B5B6">Lee, S.</span>, and Dourish, P. 2024. Rewiring Data Relations: Institutional data infrastructure for social justice. *[Proc. ACM Hum.-Comput. Interact. 8, CSCW2](https://dl.acm.org/doi/10.1145/3686959)* 
 
-Liang, X., <span style="color:#77B5B6">Lee, S.</span>, Chen, H., de la Peña, B., Andris, C. Characteristics of Jetters and Little Boxes: An Extensibility Study Using the Neighborhood Connectivity Survey. *[Social Inclusion, 2022](https://www.cogitatiopress.com/socialinclusion/article/view/5366)*
+<span style="color:#77B5B6">Lee, S.</span>, Warren, R., Mazmanizn, M. 2024. Efficient service provider or Committed social reformer?: Governmental data storytelling around city data projects. *Big Data & Society* (submitted)
 
-Chande, A., <span style="color:#77B5B6">Lee, S.</span>, Harris, M., Nguyen, Q., Beckett, S., Hilley, T., Andris, C., Weitz, J. Real-time, Interactive Website for US-county-level COVID-19 Event Risk Assessment. *[Nature Human Behavior, 2020](https://www.nature.com/articles/s41562-020-01000-9.epdf?sharing_token=N76iQiJi4MMfZlgL5CzCmtRgN0jAjWel9jnR3ZoTv0MxoMi5KsUayERBHA5eSMONUMN2Q6hJuJwlPGsZt-vBiiTQs7sU1kIpVKm93HyoihgBoBkEvityJyAIQvURfffqrG5TWZSQjM5tYqbOJq9hlmo1Qp5wJ1QsxhnVMRp60AU%3D)*
+<span style="color:#77B5B6">Lee, S.</span>, Le Dantec, C. 2023. More Than a Property: Place-based Meaning Making and Mobilization on Social Media to Resist Gentrification. *[Proc. ACM Hum.-Comput. Interact. 7, CSCW1](/pdf/V7cscw075-lee.pdf)*
 
-Lee, D., <span style="color:#77B5B6">Lee, S.</span> Inferring the Character of Urban Commercial Areas from Age-biased Online Search Results: How Place Recommendation Data Can Reveal Dynamic Seoul Neighborhoods. *In UbiComp/ISWC Adjunct, 2019*
+Liang, X., <span style="color:#77B5B6">Lee, S.</span>, Chen, H., de la Peña, B., Andris, C. 2022. Characteristics of Jetters and Little Boxes: An Extensibility Study Using the Neighborhood Connectivity Survey. *[Social Inclusion](https://www.cogitatiopress.com/socialinclusion/article/view/5366)*
+
+Chande, A., <span style="color:#77B5B6">Lee, S.</span>, Harris, M., Nguyen, Q., Beckett, S., Hilley, T., Andris, C., Weitz, J. 2020. Real-time, Interactive Website for US-county-level COVID-19 Event Risk Assessment. *[Nature Human Behavior](https://www.nature.com/articles/s41562-020-01000-9.epdf?sharing_token=N76iQiJi4MMfZlgL5CzCmtRgN0jAjWel9jnR3ZoTv0MxoMi5KsUayERBHA5eSMONUMN2Q6hJuJwlPGsZt-vBiiTQs7sU1kIpVKm93HyoihgBoBkEvityJyAIQvURfffqrG5TWZSQjM5tYqbOJq9hlmo1Qp5wJ1QsxhnVMRp60AU%3D)*
+
+Lee, D., <span style="color:#77B5B6">Lee, S.</span> 2019. Inferring the Character of Urban Commercial Areas from Age-biased Online Search Results: How Place Recommendation Data Can Reveal Dynamic Seoul Neighborhoods. *UbiComp/ISWC Adjunct*
 
 
 
 ---
 
 ## Presentations
+
+The Anti-Racist Government Reform in the Accountability Trap: A Comparative Study of Equity-centered Initiatives in the US City Governments. 
+<span style="color:#3d2478">Lee, S.</span>, Dourish, P. [4S-EASST, 2024, Amsterdam, Netherlands.](https://www.easst4s2024.net/) 
+
+Data for Productive Friction: Institutional data infrastructure for social justice.
+<span style="color:#3d2478">Lee, S.</span>, Dourish, P. [4S, 2023, Honolulu, US.](https://4sonline.org/4s_2023_honolulu.php) 
+
 Interrupting Governments’ Data Performance: Critical Reading of Government Data Narratives as a Strategy to Empower Communities in Data-driven Cities.
 <span style="color:#3d2478">Lee, S.</span>, Warren, R., Mazmanian, M. [Data Justice Conference, 2023, Cardiff, UK.](https://datajusticelab.org/data-justice-2023-conference-programme/)
 
@@ -38,7 +49,7 @@ How Urban Activism Evolves with Social Media: A Case Study of the Anti-Redevelop
 <span style="color:#3d2478">Lee, S.</span>
 [American Association of Geographers 2022 Annual Meeting, 2022](https://aag-annualmeeting.secure-platform.com/a/gallery/rounds/27/details/13592)
 
-Estimating Diversity at Points of Interest (POIs) in Atlanta, Georgia using Origin-Destination Trip Data. <span style="color:#3d2478">Lee, S.</span>, Andris, C. Association of Collegiate Schools of Planning (ACSP) 2021 Annual Conference, Virtual. 
+Estimating Diversity at Points of Interest (POIs) in Atlanta, Georgia using Origin-Destination Trip Data. <span style="color:#3d2478">Lee, S.</span>, Andris, C. Association of Collegiate Schools of Planning (ACSP) 2021 Annual Conference, 2021, Virtual. 
 
 <!-- **Characteristics of Individuals with Global, Local or Glocal Connectivity Patterns** 
 Liang, X., <span style="color:#3d2478">Lee, S.</span>, Andris, C., Chen, H., and De La Pena, B.  
@@ -61,13 +72,18 @@ Minor in Geography
 ---
 
 ## Research Experience
+
+####  Research Fellow, University of California - Irvine  
+[Steckler Center for Responsible, Ethical, and Accessible Technology (CREATE)](https://create.ics.uci.edu/) _2023-_   
+> Leading research where I examine how local governments adopt data-driven technology to policy decisions to improve social justice and equity
+
 ####  Graduate Researcher, University of California - Irvine  
-[Steckler Center for Responsible, Ethical, and Accessible Technology (CREATE)](https://create.ics.uci.edu/) _2021-Present_   
+[Department of Informatics](https://www.informatics.uci.edu/grad/phd-informatics/) _2021-2023_   
 > Leading research where I examine how local governments adopt data-driven technology to policy decisions to improve social justice and equity  
 
 ####  Graduate Research Assistant, Georgia Tech  
 [Friendly Cities Lab](http://friendlycities.gatech.edu/) (Lead: Dr. Clio Andris), School of City and Regional Planning _2019-2021_   
-> Conducted computational research on social network and flows in cities and their impact on spatial behaviors  
+> Conducted computational research on social networks and flows in cities and their impact on spatial behaviors  
 
 #### Research Intern, KAIST
 [Maturepolis Lab](https://maturepolis.com/) (Lead: Dr. David Lee), Department of Civil and Environmental Engineering _2018_ 
@@ -75,13 +91,13 @@ Minor in Geography
 
 ---
 
-## Work Experience 
+## Professional Experience 
 
-#### San Francisco Planning Department, Intern
+<!-- **#### San Francisco Planning Department, Intern
 San Francisco, CA, US _2022_
 > Team: Community Equity Division 
 > - Developed a prototype of San Francisco Neighborhood Profiles (interactive dashboard)
-> - Led the project managing inter-departmental communication and design processes 
+> - Led the project managing inter-departmental communication and design processes --> 
 
 #### Atlanta Regional Commission, Intern
 Atlanta, GA, US _2020_
