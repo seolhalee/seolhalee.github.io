@@ -1,23 +1,21 @@
-## Research
+## Projects
 ---
 
 ## Data for Situated Storytelling and Decision-Making 
-> Data narratives make people take actions 
+> Data is productive of relations and actions
 
 <p><br></p>
 
-### Neighborhood Data Hub: A data initiative to elevate equity in city governance   
-_Community-Based Interactive Map/Web Development, 2022-23_    
+### Reconfiguring Data Relations: Institutional Dynamics around Data in Local Governance   
+_Design & Ethnographic Study, 2022-23_    
 <p>In this project, I designed and developed an interactive data dashboard called 'Neighborhood Data Hub' in collaboration with a Planning Department in a city in California. The dashboard aimed to inform equitable planning decisions by providing nuanced information about communities' lives in the city's neighborhoods. The collaborative design process, which engaged planners, city staff, and community members, unpacked the gaps and conflicts in the way the entities perceived the role and value of data in improving equity in city governance, and what organizational barriers existed in achieving the goals. 
 <br>
 </p>
 <!--###![SFNDH](/images/SFNDH.gif) -->
 
-_An academic paper about this project is in progress_
-
 <p><br></p>
 
-### Interrupting governments’ data performance: Critical reading of public data communication   
+### Interrupting Governments’ Data Performance: Critical Reading of Public Data Communication   
 _Conference Presentation (Working paper), 2023_    
 <p>In this paper, we analyzed the public presentation of government city data initiatives as data performance through which governments earn legitimacy to control data's value and role in cities. Our analysis revealed two distinct narratives from the public presentations and their common storytelling structure. Demonstrating the critical analysis of the narratives focusing on government-citizen relations, we argue that critical reading of public data presentations through the lens of data performance could be a tactic of resistance for communities and activists pursuing data justice.     
 <br>
@@ -46,7 +44,7 @@ Selected Featured Articles:
 <p><br></p>
 
 ## Socially Constructed Space: Place Dynamics and Digital Media 
-> Places are socially constructed, in relation of experiences, knowledge, and interactions in physical and digital spaces.  
+> Places are socially constructed with experiences, knowledge, and interactions in physical and digital spaces.  
 <p><br></p>
 
 ### More Than a Property: Place-based Meaning Making and Mobilization on Social Media to Resist Gentrification 
