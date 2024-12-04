@@ -1,18 +1,20 @@
 ## Bio
 
-Hi, I'm a PhD student in Informatics at the University of California, Irvine.   
+Hi, I am Seolha Lee, a PhD candidate in Informatics at the University of California, Irvine.   
 
-In my research, I look at **data-driven decision-support systems and knowledge infrastructure in urban governance**. In the realm of wicked data, where big data analytics and community mapping happen at the same time, how can we represent the voices of different social groups truthfully and equally through data? What kinds of negotiations and compromises happen in the data-driven decision-making processes? 
+In my research, I examine the politics of data in local governance through ethnographic and design engagements with various organizations shaping our public lives—municipal governments, government tech vendors, non-profit community development organizations, and more. 
 
-Leveraging mixed methods, I pursue ways to make the decision-making processes more _democratic and just_, by **designing information systems** for collaborative sense-making and community-centered data science.
+By revealing how these actors negotiate what data can and should do in governments, I speculate on rooms for transformative actions within governing institutions to rebuild them for democracy and justice. 
+
+<!-- **I look at **data-driven decision-support systems and knowledge infrastructure in urban governance**. In the realm of wicked data, where big data analytics and community mapping happen at the same time, how can we represent the voices of different social groups truthfully and equally through data? What kinds of negotiations and compromises happen in the data-driven decision-making processes? 
+
+Leveraging mixed methods, I pursue ways to make the decision-making processes more _democratic and just_, by **designing information systems** for collaborative sense-making and community-centered data science.-->
 
 Before I joined the current program, I studied urban planning at Georgia Tech, focusing on urban data analytics to understand urban communities' social networks and activities. 
 
-I have also practiced as a strategic designer/data analyst in urban planning & design organizations in South Korea and the US. There I found my interest in the power of data that can either support or suppress people in cities. 
+I have also practiced as a strategic designer/data analyst in urban planning organizations in South Korea and the US. There, I first encountered the frustration and fascination of the messy negotiations around data and power in governance. 
 
-These experiences across **urban data analytics** and **participatory planning** have invited me to tackle the conflicting values and interests manifested through disparate approaches to data: qualitative and quantitative; objective and subjective: top-down and bottom-up, etc.   
-
-My work often happens in front of computer screens,  but the most exciting part of my works happens while I'm interacting with real people on the streets.  
+These experiences across **urban data analytics** and **participatory planning** have invited me to tackle the conflicting values and interests manifested through disparate approaches to data: qualitative and quantitative; objective and subjective: top-down and bottom-up, and more.   
 
 ---
 
@@ -60,8 +62,9 @@ North American Meetings of the Regional Science Association International, Novem
 
 ## Education
 
-#### Informatics PhD
+#### PhD in Informatics 
 University of California, Irvine, _2021-Present_
+Graduate Feminist Emphasis
 #### Master in City and Regional Planning
 Georgia Institute of Technology, _2019-2021_   
 #### BSc in Civil and Environmental Engineering
