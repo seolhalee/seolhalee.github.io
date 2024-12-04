@@ -14,7 +14,7 @@ Before I joined the current program, I studied urban planning at Georgia Tech, f
 
 I have also practiced as a strategic designer/data analyst in urban planning organizations in South Korea and the US. There, I first encountered the frustration and fascination of the messy negotiations around data and power in governance. 
 
-These experiences across **urban data analytics** and **participatory planning** have invited me to tackle the conflicting values and interests manifested through disparate approaches to data: qualitative and quantitative; objective and subjective: top-down and bottom-up, and more.   
+These experiences across urban data analytics and participatory planning have invited me to tackle the conflicting values and interests manifested through disparate approaches to data: qualitative and quantitative; objective and subjective: top-down and bottom-up, and more.   
 
 ---
 
