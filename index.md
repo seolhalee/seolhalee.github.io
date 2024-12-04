@@ -2,7 +2,7 @@
 
 Hi, I am Seolha Lee, a PhD candidate in Informatics at the University of California, Irvine.   
 
-In my research, I examine the politics of data in local governance through ethnographic and design engagements with various organizations shaping our public lives—municipal governments, government tech vendors, non-profit community development organizations, and more. 
+In my research, I examine the politics of data in local governance through ethnographic and design engagements with various organizations shaping our public lives — municipal governments, government tech vendors, non-profit community development organizations, and more. 
 
 By revealing how these actors negotiate what data can and should do in governments, I speculate on rooms for transformative actions within governing institutions to rebuild them for democracy and justice. 
 
