@@ -13,7 +13,7 @@ _Design & Ethnographic Study, 2022-23_
 </p>
 <!--###![SFNDH](/images/SFNDH.gif) -->
 
-_Publication: Lee, S., and Dourish, P. 2024. Rewiring Data Relations: Institutional data infrastructure for social justice. Proc. ACM Hum.-Comput. Interact. 8, CSCW2_  
+_Publication: <a href="https://dl.acm.org/doi/10.1145/3686959">Lee, S., and Dourish, P. 2024. Rewiring Data Relations: Institutional data infrastructure for social justice. Proc. ACM Hum.-Comput. Interact. 8, CSCW2</a>_  
 
 <p><br></p>
 
